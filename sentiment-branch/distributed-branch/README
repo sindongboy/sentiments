@@ -1,0 +1,10 @@
+
+#Sentiment Analyzer Core Implementation
+
+##Run Example
+
+```
+run ${PROJECT_HOME}/scripts/analyzer-files.sh
+```
+
+

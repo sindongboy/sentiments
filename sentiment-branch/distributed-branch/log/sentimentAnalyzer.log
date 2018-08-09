@@ -1,0 +1,474 @@
+[2016-05-09 21:16:33][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:16:34][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:16:34][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:16:34][WARN ](JobResourceUploader.java:171) - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[2016-05-09 21:16:34][INFO ](JobSubmitter.java:252) - Cleaning up the staging area file:/tmp/hadoop-sindongboy/mapred/staging/sindongboy53739369/.staging/job_local53739369_0001
+[2016-05-09 21:16:34][WARN ](UserGroupInformation.java:1674) - PriviledgedActionException as:sindongboy (auth:SIMPLE) cause:org.apache.hadoop.mapreduce.lib.input.InvalidInputException: Input path does not exist: file:/user/hive/warehouse/svc_tas.db/tb_review_nlp/p_yyyymmdd=20160502
+[2016-05-09 21:17:08][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:17:09][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:17:09][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:17:09][WARN ](UserGroupInformation.java:1674) - PriviledgedActionException as:sindongboy (auth:SIMPLE) cause:org.apache.hadoop.mapred.FileAlreadyExistsException: Output directory hdfs://localhost:9000/user/tas/product/tmp/sentiment/p_yyyymmdd=20160502 already exists
+[2016-05-09 21:17:40][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:17:41][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:17:41][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:17:41][WARN ](JobResourceUploader.java:171) - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[2016-05-09 21:17:41][INFO ](FileInputFormat.java:283) - Total input paths to process : 1
+[2016-05-09 21:17:41][INFO ](JobSubmitter.java:201) - number of splits:1
+[2016-05-09 21:17:41][INFO ](JobSubmitter.java:290) - Submitting tokens for job: job_local1746789311_0001
+[2016-05-09 21:17:41][INFO ](Job.java:1311) - The url to track the job: http://localhost:8080/
+[2016-05-09 21:17:41][INFO ](Job.java:1356) - Running job: job_local1746789311_0001
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:471) - OutputCommitter set in config null
+[2016-05-09 21:17:41][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:489) - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:448) - Waiting for map tasks
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:224) - Starting task: attempt_local1746789311_0001_m_000000_0
+[2016-05-09 21:17:41][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:17:41][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:17:41][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:17:41][INFO ](DictionaryAll.java:49) - Sentiment Dictionary loading ....
+[2016-05-09 21:17:41][INFO ](SentimentDict.java:71) - attribute dictionary loading (347) ....
+[2016-05-09 21:17:41][INFO ](SentimentDict.java:74) - attribute dictionary loading done
+[2016-05-09 21:17:41][INFO ](SentimentDict.java:77) - expression dictionary loading (347) ....
+[2016-05-09 21:17:41][INFO ](SentimentDict.java:80) - expression dictionary loading done
+[2016-05-09 21:17:41][INFO ](SentimentDict.java:83) - mapping dictionary loading (347)....
+[2016-05-09 21:17:41][INFO ](SentimentDict.java:86) - mapping dictionary loading done
+[2016-05-09 21:17:41][INFO ](DictionaryAll.java:79) - Sentiment Dictionary loading done
+[2016-05-09 21:17:41][INFO ](MapTask.java:756) - Processing split: hdfs://localhost:9000/user/hive/warehouse/svc_tas.db/tb_review_nlp/p_yyyymmdd=20160502/part-r-00000:0+124
+[2016-05-09 21:17:41][INFO ](MapTask.java:1206) - (EQUATOR) 0 kvi 26214396(104857584)
+[2016-05-09 21:17:41][INFO ](MapTask.java:999) - mapreduce.task.io.sort.mb: 100
+[2016-05-09 21:17:41][INFO ](MapTask.java:1000) - soft limit at 83886080
+[2016-05-09 21:17:41][INFO ](MapTask.java:1001) - bufstart = 0; bufvoid = 104857600
+[2016-05-09 21:17:41][INFO ](MapTask.java:1002) - kvstart = 26214396; length = 6553600
+[2016-05-09 21:17:41][INFO ](MapTask.java:403) - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+[2016-05-09 21:17:41][INFO ](Collocation.java:98) - collocation dictionary is loading ....
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:591) - 
+[2016-05-09 21:17:41][INFO ](MapTask.java:1461) - Starting flush of map output
+[2016-05-09 21:17:41][INFO ](Task.java:1003) - Task:attempt_local1746789311_0001_m_000000_0 is done. And is in the process of committing
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:591) - map
+[2016-05-09 21:17:41][INFO ](Task.java:1123) - Task 'attempt_local1746789311_0001_m_000000_0' done.
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:249) - Finishing task: attempt_local1746789311_0001_m_000000_0
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:456) - map task executor complete.
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:448) - Waiting for reduce tasks
+[2016-05-09 21:17:41][INFO ](LocalJobRunner.java:302) - Starting task: attempt_local1746789311_0001_r_000000_0
+[2016-05-09 21:17:41][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:17:41][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:17:41][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:17:42][INFO ](ReduceTask.java:362) - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@668bed54
+[2016-05-09 21:17:42][INFO ](MergeManagerImpl.java:197) - MergerManager: memoryLimit=1336252800, maxSingleShuffleLimit=334063200, mergeThreshold=881926912, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[2016-05-09 21:17:42][INFO ](EventFetcher.java:61) - attempt_local1746789311_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[2016-05-09 21:17:42][INFO ](LocalFetcher.java:141) - localfetcher#1 about to shuffle output of map attempt_local1746789311_0001_m_000000_0 decomp: 2 len: 6 to MEMORY
+[2016-05-09 21:17:42][INFO ](InMemoryMapOutput.java:100) - Read 2 bytes from map-output for attempt_local1746789311_0001_m_000000_0
+[2016-05-09 21:17:42][INFO ](MergeManagerImpl.java:315) - closeInMemoryFile -> map-output of size: 2, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->2
+[2016-05-09 21:17:42][INFO ](EventFetcher.java:76) - EventFetcher is interrupted.. Returning
+[2016-05-09 21:17:42][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:17:42][INFO ](MergeManagerImpl.java:687) - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+[2016-05-09 21:17:42][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:17:42][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:17:42][INFO ](MergeManagerImpl.java:754) - Merged 1 segments, 2 bytes to disk to satisfy reduce memory limit
+[2016-05-09 21:17:42][INFO ](MergeManagerImpl.java:784) - Merging 1 files, 6 bytes from disk
+[2016-05-09 21:17:42][INFO ](MergeManagerImpl.java:799) - Merging 0 segments, 0 bytes from memory into reduce
+[2016-05-09 21:17:42][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:17:42][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:17:42][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:17:42][INFO ](Configuration.java:1174) - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+[2016-05-09 21:17:42][INFO ](Task.java:1003) - Task:attempt_local1746789311_0001_r_000000_0 is done. And is in the process of committing
+[2016-05-09 21:17:42][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:17:42][INFO ](Task.java:1164) - Task attempt_local1746789311_0001_r_000000_0 is allowed to commit now
+[2016-05-09 21:17:42][INFO ](FileOutputCommitter.java:482) - Saved output of task 'attempt_local1746789311_0001_r_000000_0' to hdfs://localhost:9000/user/tas/product/tmp/sentiment/p_yyyymmdd=20160502/_temporary/0/task_local1746789311_0001_r_000000
+[2016-05-09 21:17:42][INFO ](LocalJobRunner.java:591) - reduce > reduce
+[2016-05-09 21:17:42][INFO ](Task.java:1123) - Task 'attempt_local1746789311_0001_r_000000_0' done.
+[2016-05-09 21:17:42][INFO ](LocalJobRunner.java:325) - Finishing task: attempt_local1746789311_0001_r_000000_0
+[2016-05-09 21:17:42][INFO ](LocalJobRunner.java:456) - reduce task executor complete.
+[2016-05-09 21:17:42][INFO ](Job.java:1377) - Job job_local1746789311_0001 running in uber mode : false
+[2016-05-09 21:17:42][INFO ](Job.java:1384) -  map 100% reduce 100%
+[2016-05-09 21:17:42][INFO ](Job.java:1395) - Job job_local1746789311_0001 completed successfully
+[2016-05-09 21:17:42][INFO ](Job.java:1402) - Counters: 35
+	File System Counters
+		FILE: Number of bytes read=488
+		FILE: Number of bytes written=556450
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=602228
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=33
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Map-Reduce Framework
+		Map input records=1
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=6
+		Input split bytes=164
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=6
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=6
+		Total committed heap usage (bytes)=551550976
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=124
+	File Output Format Counters 
+		Bytes Written=0
+[2016-05-09 21:35:18][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:35:20][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:35:20][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:35:20][WARN ](UserGroupInformation.java:1674) - PriviledgedActionException as:sindongboy (auth:SIMPLE) cause:org.apache.hadoop.mapred.FileAlreadyExistsException: Output directory hdfs://localhost:9000/user/tas/product/tmp/sentiment/p_yyyymmdd=20160502 already exists
+[2016-05-09 21:35:47][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:35:48][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:35:48][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:35:49][WARN ](JobResourceUploader.java:171) - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[2016-05-09 21:35:49][INFO ](FileInputFormat.java:283) - Total input paths to process : 1
+[2016-05-09 21:35:49][INFO ](JobSubmitter.java:201) - number of splits:1
+[2016-05-09 21:35:49][INFO ](JobSubmitter.java:290) - Submitting tokens for job: job_local1246261167_0001
+[2016-05-09 21:35:49][INFO ](Job.java:1311) - The url to track the job: http://localhost:8080/
+[2016-05-09 21:35:49][INFO ](Job.java:1356) - Running job: job_local1246261167_0001
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:471) - OutputCommitter set in config null
+[2016-05-09 21:35:49][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:489) - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:448) - Waiting for map tasks
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:224) - Starting task: attempt_local1246261167_0001_m_000000_0
+[2016-05-09 21:35:49][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:35:49][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:35:49][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:35:49][INFO ](DictionaryAll.java:49) - Sentiment Dictionary loading ....
+[2016-05-09 21:35:49][INFO ](SentimentDict.java:71) - attribute dictionary loading (347) ....
+[2016-05-09 21:35:49][INFO ](SentimentDict.java:74) - attribute dictionary loading done
+[2016-05-09 21:35:49][INFO ](SentimentDict.java:77) - expression dictionary loading (347) ....
+[2016-05-09 21:35:49][INFO ](SentimentDict.java:80) - expression dictionary loading done
+[2016-05-09 21:35:49][INFO ](SentimentDict.java:83) - mapping dictionary loading (347)....
+[2016-05-09 21:35:49][INFO ](SentimentDict.java:86) - mapping dictionary loading done
+[2016-05-09 21:35:49][INFO ](DictionaryAll.java:79) - Sentiment Dictionary loading done
+[2016-05-09 21:35:49][INFO ](MapTask.java:756) - Processing split: hdfs://localhost:9000/user/hive/warehouse/svc_tas.db/tb_review_nlp/p_yyyymmdd=20160502/part-r-00000:0+124
+[2016-05-09 21:35:49][INFO ](MapTask.java:1206) - (EQUATOR) 0 kvi 26214396(104857584)
+[2016-05-09 21:35:49][INFO ](MapTask.java:999) - mapreduce.task.io.sort.mb: 100
+[2016-05-09 21:35:49][INFO ](MapTask.java:1000) - soft limit at 83886080
+[2016-05-09 21:35:49][INFO ](MapTask.java:1001) - bufstart = 0; bufvoid = 104857600
+[2016-05-09 21:35:49][INFO ](MapTask.java:1002) - kvstart = 26214396; length = 6553600
+[2016-05-09 21:35:49][INFO ](MapTask.java:403) - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+[2016-05-09 21:35:49][INFO ](Collocation.java:98) - collocation dictionary is loading ....
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:591) - 
+[2016-05-09 21:35:49][INFO ](MapTask.java:1461) - Starting flush of map output
+[2016-05-09 21:35:49][INFO ](Task.java:1003) - Task:attempt_local1246261167_0001_m_000000_0 is done. And is in the process of committing
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:591) - map
+[2016-05-09 21:35:49][INFO ](Task.java:1123) - Task 'attempt_local1246261167_0001_m_000000_0' done.
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:249) - Finishing task: attempt_local1246261167_0001_m_000000_0
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:456) - map task executor complete.
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:448) - Waiting for reduce tasks
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:302) - Starting task: attempt_local1246261167_0001_r_000000_0
+[2016-05-09 21:35:49][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:35:49][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:35:49][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:35:49][INFO ](ReduceTask.java:362) - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@634fc3da
+[2016-05-09 21:35:49][INFO ](MergeManagerImpl.java:197) - MergerManager: memoryLimit=1336252800, maxSingleShuffleLimit=334063200, mergeThreshold=881926912, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[2016-05-09 21:35:49][INFO ](EventFetcher.java:61) - attempt_local1246261167_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[2016-05-09 21:35:49][INFO ](LocalFetcher.java:141) - localfetcher#1 about to shuffle output of map attempt_local1246261167_0001_m_000000_0 decomp: 2 len: 6 to MEMORY
+[2016-05-09 21:35:49][INFO ](InMemoryMapOutput.java:100) - Read 2 bytes from map-output for attempt_local1246261167_0001_m_000000_0
+[2016-05-09 21:35:49][INFO ](MergeManagerImpl.java:315) - closeInMemoryFile -> map-output of size: 2, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->2
+[2016-05-09 21:35:49][INFO ](EventFetcher.java:76) - EventFetcher is interrupted.. Returning
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:35:49][INFO ](MergeManagerImpl.java:687) - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+[2016-05-09 21:35:49][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:35:49][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:35:49][INFO ](MergeManagerImpl.java:754) - Merged 1 segments, 2 bytes to disk to satisfy reduce memory limit
+[2016-05-09 21:35:49][INFO ](MergeManagerImpl.java:784) - Merging 1 files, 6 bytes from disk
+[2016-05-09 21:35:49][INFO ](MergeManagerImpl.java:799) - Merging 0 segments, 0 bytes from memory into reduce
+[2016-05-09 21:35:49][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:35:49][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:35:49][INFO ](Configuration.java:1174) - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+[2016-05-09 21:35:49][INFO ](Task.java:1003) - Task:attempt_local1246261167_0001_r_000000_0 is done. And is in the process of committing
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:35:49][INFO ](Task.java:1164) - Task attempt_local1246261167_0001_r_000000_0 is allowed to commit now
+[2016-05-09 21:35:49][INFO ](FileOutputCommitter.java:482) - Saved output of task 'attempt_local1246261167_0001_r_000000_0' to hdfs://localhost:9000/user/tas/product/tmp/sentiment/p_yyyymmdd=20160502/_temporary/0/task_local1246261167_0001_r_000000
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:591) - reduce > reduce
+[2016-05-09 21:35:49][INFO ](Task.java:1123) - Task 'attempt_local1246261167_0001_r_000000_0' done.
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:325) - Finishing task: attempt_local1246261167_0001_r_000000_0
+[2016-05-09 21:35:49][INFO ](LocalJobRunner.java:456) - reduce task executor complete.
+[2016-05-09 21:35:50][INFO ](Job.java:1377) - Job job_local1246261167_0001 running in uber mode : false
+[2016-05-09 21:35:50][INFO ](Job.java:1384) -  map 100% reduce 100%
+[2016-05-09 21:35:50][INFO ](Job.java:1395) - Job job_local1246261167_0001 completed successfully
+[2016-05-09 21:35:50][INFO ](Job.java:1402) - Counters: 35
+	File System Counters
+		FILE: Number of bytes read=488
+		FILE: Number of bytes written=556450
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=602228
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=33
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=4
+	Map-Reduce Framework
+		Map input records=1
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=6
+		Input split bytes=164
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=6
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=5
+		Total committed heap usage (bytes)=557842432
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=124
+	File Output Format Counters 
+		Bytes Written=0
+[2016-05-09 21:36:48][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:36:49][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:36:49][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:36:49][WARN ](JobResourceUploader.java:171) - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[2016-05-09 21:36:49][INFO ](FileInputFormat.java:283) - Total input paths to process : 1
+[2016-05-09 21:36:49][INFO ](JobSubmitter.java:201) - number of splits:1
+[2016-05-09 21:36:49][INFO ](JobSubmitter.java:290) - Submitting tokens for job: job_local461892483_0001
+[2016-05-09 21:36:49][INFO ](Job.java:1311) - The url to track the job: http://localhost:8080/
+[2016-05-09 21:36:49][INFO ](Job.java:1356) - Running job: job_local461892483_0001
+[2016-05-09 21:36:49][INFO ](LocalJobRunner.java:471) - OutputCommitter set in config null
+[2016-05-09 21:36:49][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:36:49][INFO ](LocalJobRunner.java:489) - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+[2016-05-09 21:36:49][INFO ](LocalJobRunner.java:448) - Waiting for map tasks
+[2016-05-09 21:36:49][INFO ](LocalJobRunner.java:224) - Starting task: attempt_local461892483_0001_m_000000_0
+[2016-05-09 21:36:49][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:36:49][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:36:49][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:36:49][INFO ](DictionaryAll.java:49) - Sentiment Dictionary loading ....
+[2016-05-09 21:36:49][INFO ](SentimentDict.java:71) - attribute dictionary loading (347) ....
+[2016-05-09 21:36:50][INFO ](SentimentDict.java:74) - attribute dictionary loading done
+[2016-05-09 21:36:50][INFO ](SentimentDict.java:77) - expression dictionary loading (347) ....
+[2016-05-09 21:36:50][INFO ](SentimentDict.java:80) - expression dictionary loading done
+[2016-05-09 21:36:50][INFO ](SentimentDict.java:83) - mapping dictionary loading (347)....
+[2016-05-09 21:36:50][INFO ](SentimentDict.java:86) - mapping dictionary loading done
+[2016-05-09 21:36:50][INFO ](DictionaryAll.java:79) - Sentiment Dictionary loading done
+[2016-05-09 21:36:50][INFO ](MapTask.java:756) - Processing split: hdfs://localhost:9000/user/hive/warehouse/svc_tas.db/tb_review_nlp/p_yyyymmdd=20160502/part-r-00000:0+124
+[2016-05-09 21:36:50][INFO ](MapTask.java:1206) - (EQUATOR) 0 kvi 26214396(104857584)
+[2016-05-09 21:36:50][INFO ](MapTask.java:999) - mapreduce.task.io.sort.mb: 100
+[2016-05-09 21:36:50][INFO ](MapTask.java:1000) - soft limit at 83886080
+[2016-05-09 21:36:50][INFO ](MapTask.java:1001) - bufstart = 0; bufvoid = 104857600
+[2016-05-09 21:36:50][INFO ](MapTask.java:1002) - kvstart = 26214396; length = 6553600
+[2016-05-09 21:36:50][INFO ](MapTask.java:403) - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+[2016-05-09 21:36:50][INFO ](Collocation.java:98) - collocation dictionary is loading ....
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:591) - 
+[2016-05-09 21:36:50][INFO ](MapTask.java:1461) - Starting flush of map output
+[2016-05-09 21:36:50][INFO ](Task.java:1003) - Task:attempt_local461892483_0001_m_000000_0 is done. And is in the process of committing
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:591) - map
+[2016-05-09 21:36:50][INFO ](Task.java:1123) - Task 'attempt_local461892483_0001_m_000000_0' done.
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:249) - Finishing task: attempt_local461892483_0001_m_000000_0
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:456) - map task executor complete.
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:448) - Waiting for reduce tasks
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:302) - Starting task: attempt_local461892483_0001_r_000000_0
+[2016-05-09 21:36:50][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:36:50][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:36:50][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:36:50][INFO ](ReduceTask.java:362) - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@46bae77b
+[2016-05-09 21:36:50][INFO ](MergeManagerImpl.java:197) - MergerManager: memoryLimit=1336252800, maxSingleShuffleLimit=334063200, mergeThreshold=881926912, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[2016-05-09 21:36:50][INFO ](EventFetcher.java:61) - attempt_local461892483_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[2016-05-09 21:36:50][INFO ](LocalFetcher.java:141) - localfetcher#1 about to shuffle output of map attempt_local461892483_0001_m_000000_0 decomp: 2 len: 6 to MEMORY
+[2016-05-09 21:36:50][INFO ](InMemoryMapOutput.java:100) - Read 2 bytes from map-output for attempt_local461892483_0001_m_000000_0
+[2016-05-09 21:36:50][INFO ](MergeManagerImpl.java:315) - closeInMemoryFile -> map-output of size: 2, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->2
+[2016-05-09 21:36:50][INFO ](EventFetcher.java:76) - EventFetcher is interrupted.. Returning
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:36:50][INFO ](MergeManagerImpl.java:687) - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+[2016-05-09 21:36:50][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:36:50][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:36:50][INFO ](MergeManagerImpl.java:754) - Merged 1 segments, 2 bytes to disk to satisfy reduce memory limit
+[2016-05-09 21:36:50][INFO ](MergeManagerImpl.java:784) - Merging 1 files, 6 bytes from disk
+[2016-05-09 21:36:50][INFO ](MergeManagerImpl.java:799) - Merging 0 segments, 0 bytes from memory into reduce
+[2016-05-09 21:36:50][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:36:50][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:36:50][INFO ](Configuration.java:1174) - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+[2016-05-09 21:36:50][INFO ](Task.java:1003) - Task:attempt_local461892483_0001_r_000000_0 is done. And is in the process of committing
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:36:50][INFO ](Task.java:1164) - Task attempt_local461892483_0001_r_000000_0 is allowed to commit now
+[2016-05-09 21:36:50][INFO ](FileOutputCommitter.java:482) - Saved output of task 'attempt_local461892483_0001_r_000000_0' to hdfs://localhost:9000/user/tas/product/tmp/sentiment/p_yyyymmdd=20160502/_temporary/0/task_local461892483_0001_r_000000
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:591) - reduce > reduce
+[2016-05-09 21:36:50][INFO ](Task.java:1123) - Task 'attempt_local461892483_0001_r_000000_0' done.
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:325) - Finishing task: attempt_local461892483_0001_r_000000_0
+[2016-05-09 21:36:50][INFO ](LocalJobRunner.java:456) - reduce task executor complete.
+[2016-05-09 21:36:50][INFO ](Job.java:1377) - Job job_local461892483_0001 running in uber mode : false
+[2016-05-09 21:36:50][INFO ](Job.java:1384) -  map 100% reduce 100%
+[2016-05-09 21:36:50][INFO ](Job.java:1395) - Job job_local461892483_0001 completed successfully
+[2016-05-09 21:36:50][INFO ](Job.java:1402) - Counters: 35
+	File System Counters
+		FILE: Number of bytes read=488
+		FILE: Number of bytes written=553634
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=602228
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=35
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+	Map-Reduce Framework
+		Map input records=1
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=6
+		Input split bytes=164
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=6
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=583008256
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=124
+	File Output Format Counters 
+		Bytes Written=0
+[2016-05-09 21:36:56][WARN ](NativeCodeLoader.java:62) - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[2016-05-09 21:36:57][INFO ](Configuration.java:1174) - session.id is deprecated. Instead, use dfs.metrics.session-id
+[2016-05-09 21:36:57][INFO ](JvmMetrics.java:76) - Initializing JVM Metrics with processName=JobTracker, sessionId=
+[2016-05-09 21:36:57][WARN ](JobResourceUploader.java:171) - No job jar file set.  User classes may not be found. See Job or Job#setJar(String).
+[2016-05-09 21:36:57][INFO ](FileInputFormat.java:283) - Total input paths to process : 1
+[2016-05-09 21:36:57][INFO ](JobSubmitter.java:201) - number of splits:1
+[2016-05-09 21:36:57][INFO ](JobSubmitter.java:290) - Submitting tokens for job: job_local1948974457_0001
+[2016-05-09 21:36:57][INFO ](Job.java:1311) - The url to track the job: http://localhost:8080/
+[2016-05-09 21:36:57][INFO ](Job.java:1356) - Running job: job_local1948974457_0001
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:471) - OutputCommitter set in config null
+[2016-05-09 21:36:57][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:489) - OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:448) - Waiting for map tasks
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:224) - Starting task: attempt_local1948974457_0001_m_000000_0
+[2016-05-09 21:36:57][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:36:57][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:36:57][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:36:57][INFO ](DictionaryAll.java:49) - Sentiment Dictionary loading ....
+[2016-05-09 21:36:57][INFO ](SentimentDict.java:71) - attribute dictionary loading (347) ....
+[2016-05-09 21:36:57][INFO ](SentimentDict.java:74) - attribute dictionary loading done
+[2016-05-09 21:36:57][INFO ](SentimentDict.java:77) - expression dictionary loading (347) ....
+[2016-05-09 21:36:57][INFO ](SentimentDict.java:80) - expression dictionary loading done
+[2016-05-09 21:36:57][INFO ](SentimentDict.java:83) - mapping dictionary loading (347)....
+[2016-05-09 21:36:57][INFO ](SentimentDict.java:86) - mapping dictionary loading done
+[2016-05-09 21:36:57][INFO ](DictionaryAll.java:79) - Sentiment Dictionary loading done
+[2016-05-09 21:36:57][INFO ](MapTask.java:756) - Processing split: hdfs://localhost:9000/user/hive/warehouse/svc_tas.db/tb_review_nlp/p_yyyymmdd=20160502/part-r-00000:0+124
+[2016-05-09 21:36:57][INFO ](MapTask.java:1206) - (EQUATOR) 0 kvi 26214396(104857584)
+[2016-05-09 21:36:57][INFO ](MapTask.java:999) - mapreduce.task.io.sort.mb: 100
+[2016-05-09 21:36:57][INFO ](MapTask.java:1000) - soft limit at 83886080
+[2016-05-09 21:36:57][INFO ](MapTask.java:1001) - bufstart = 0; bufvoid = 104857600
+[2016-05-09 21:36:57][INFO ](MapTask.java:1002) - kvstart = 26214396; length = 6553600
+[2016-05-09 21:36:57][INFO ](MapTask.java:403) - Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+[2016-05-09 21:36:57][INFO ](Collocation.java:98) - collocation dictionary is loading ....
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:591) - 
+[2016-05-09 21:36:57][INFO ](MapTask.java:1461) - Starting flush of map output
+[2016-05-09 21:36:57][INFO ](Task.java:1003) - Task:attempt_local1948974457_0001_m_000000_0 is done. And is in the process of committing
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:591) - map
+[2016-05-09 21:36:57][INFO ](Task.java:1123) - Task 'attempt_local1948974457_0001_m_000000_0' done.
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:249) - Finishing task: attempt_local1948974457_0001_m_000000_0
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:456) - map task executor complete.
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:448) - Waiting for reduce tasks
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:302) - Starting task: attempt_local1948974457_0001_r_000000_0
+[2016-05-09 21:36:57][INFO ](FileOutputCommitter.java:100) - File Output Committer Algorithm version is 1
+[2016-05-09 21:36:57][INFO ](ProcfsBasedProcessTree.java:190) - ProcfsBasedProcessTree currently is supported only on Linux.
+[2016-05-09 21:36:57][INFO ](Task.java:588) -  Using ResourceCalculatorProcessTree : null
+[2016-05-09 21:36:57][INFO ](ReduceTask.java:362) - Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@e0260a7
+[2016-05-09 21:36:57][INFO ](MergeManagerImpl.java:197) - MergerManager: memoryLimit=1336252800, maxSingleShuffleLimit=334063200, mergeThreshold=881926912, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+[2016-05-09 21:36:57][INFO ](EventFetcher.java:61) - attempt_local1948974457_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+[2016-05-09 21:36:57][INFO ](LocalFetcher.java:141) - localfetcher#1 about to shuffle output of map attempt_local1948974457_0001_m_000000_0 decomp: 2 len: 6 to MEMORY
+[2016-05-09 21:36:57][INFO ](InMemoryMapOutput.java:100) - Read 2 bytes from map-output for attempt_local1948974457_0001_m_000000_0
+[2016-05-09 21:36:57][INFO ](MergeManagerImpl.java:315) - closeInMemoryFile -> map-output of size: 2, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->2
+[2016-05-09 21:36:57][INFO ](EventFetcher.java:76) - EventFetcher is interrupted.. Returning
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:36:57][INFO ](MergeManagerImpl.java:687) - finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+[2016-05-09 21:36:57][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:36:57][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:36:57][INFO ](MergeManagerImpl.java:754) - Merged 1 segments, 2 bytes to disk to satisfy reduce memory limit
+[2016-05-09 21:36:57][INFO ](MergeManagerImpl.java:784) - Merging 1 files, 6 bytes from disk
+[2016-05-09 21:36:57][INFO ](MergeManagerImpl.java:799) - Merging 0 segments, 0 bytes from memory into reduce
+[2016-05-09 21:36:57][INFO ](Merger.java:606) - Merging 1 sorted segments
+[2016-05-09 21:36:57][INFO ](Merger.java:705) - Down to the last merge-pass, with 0 segments left of total size: 0 bytes
+[2016-05-09 21:36:57][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:36:58][INFO ](Configuration.java:1174) - mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+[2016-05-09 21:36:58][INFO ](Task.java:1003) - Task:attempt_local1948974457_0001_r_000000_0 is done. And is in the process of committing
+[2016-05-09 21:36:58][INFO ](LocalJobRunner.java:591) - 1 / 1 copied.
+[2016-05-09 21:36:58][INFO ](Task.java:1164) - Task attempt_local1948974457_0001_r_000000_0 is allowed to commit now
+[2016-05-09 21:36:58][INFO ](FileOutputCommitter.java:482) - Saved output of task 'attempt_local1948974457_0001_r_000000_0' to hdfs://localhost:9000/user/tas/product/tmp/sentiment/p_yyyymmdd=20160502/_temporary/0/task_local1948974457_0001_r_000000
+[2016-05-09 21:36:58][INFO ](LocalJobRunner.java:591) - reduce > reduce
+[2016-05-09 21:36:58][INFO ](Task.java:1123) - Task 'attempt_local1948974457_0001_r_000000_0' done.
+[2016-05-09 21:36:58][INFO ](LocalJobRunner.java:325) - Finishing task: attempt_local1948974457_0001_r_000000_0
+[2016-05-09 21:36:58][INFO ](LocalJobRunner.java:456) - reduce task executor complete.
+[2016-05-09 21:36:58][INFO ](Job.java:1377) - Job job_local1948974457_0001 running in uber mode : false
+[2016-05-09 21:36:58][INFO ](Job.java:1384) -  map 100% reduce 100%
+[2016-05-09 21:36:58][INFO ](Job.java:1395) - Job job_local1948974457_0001 completed successfully
+[2016-05-09 21:36:58][INFO ](Job.java:1402) - Counters: 35
+	File System Counters
+		FILE: Number of bytes read=488
+		FILE: Number of bytes written=556450
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=602228
+		HDFS: Number of bytes written=0
+		HDFS: Number of read operations=35
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=6
+	Map-Reduce Framework
+		Map input records=1
+		Map output records=0
+		Map output bytes=0
+		Map output materialized bytes=6
+		Input split bytes=164
+		Combine input records=0
+		Combine output records=0
+		Reduce input groups=0
+		Reduce shuffle bytes=6
+		Reduce input records=0
+		Reduce output records=0
+		Spilled Records=0
+		Shuffled Maps =1
+		Failed Shuffles=0
+		Merged Map outputs=1
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=591396864
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+	File Input Format Counters 
+		Bytes Read=124
+	File Output Format Counters 
+		Bytes Written=0

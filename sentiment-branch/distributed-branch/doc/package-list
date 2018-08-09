@@ -1,0 +1,6 @@
+com.skplanet.nlp.sentiment
+com.skplanet.nlp.sentiment.analyzer
+com.skplanet.nlp.sentiment.driver
+com.skplanet.nlp.sentiment.ds
+com.skplanet.nlp.sentiment.knowledge
+com.skplanet.nlp.sentiment.util

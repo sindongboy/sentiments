@@ -1,0 +1,416 @@
+A1	EGF 성분,EGF	egf/eng 성분/nngegf/eng
+A2	NULL	null/eng
+A3	가격,가격대,가격면,가격측면,값,금액,금액대,단가,시중가	가격/nng가격/nng 대/xsn가격/nng 면/nng가격/nng 측면/nng값/nng금액/nng금액/nng 대/nnb단가/nng시중/nng 가/xsn
+A4	가격 만족도,가격대비만족도,가격대비만족도,가격대성능비,가성비,가격만족도	가격/nng 만족/nng 도/xsn가격/nng 대비/nng 만족도/nng가격/nng 대비/nng 만족도/nng가격/nng 대/xsn 성능비/nng가성비/nng가격/nng 만족도/nng
+A5	가격 부담	가격/nng 부담/nng
+A6	가루	가루/nng
+A7	가루날림,날림	가루/nng 날림/nng날림/nng
+A8	각질	각질/nng
+A9	각질관리	각질/nng 관리/nng
+A10	각질부각	각질/nng 부각/nng
+A11	각질제거,얼굴각질제거	각질/nng 제거/nng얼굴/nng 각질/nng 제거/nng
+A12	감각	감각/nng
+A13	감촉,촉감,질감,텍스쳐,텍스처	감촉/nng촉감/nng질감/nng텍스쳐/nng텍스처/nnp
+A14	거품,버블	거품/nng버블/nng
+A15	거품타입,거품형,거품형식,버블타입	거품/nng 타입/nng거품/nng 형/xsn거품/nng 형식/nng버블/nng 타입/nng
+A16	건성피부,건성,건조함,건조피부	건성/nng 피부/nng건성/nng건조/nng 하/xsv ㅁ/etn건조/nng 피부/nng
+A17	겔타입	겔/nng 타입/nng
+A18	계면활성제	계면/nng 활성/nng 제/xsn
+A19	고리형	고리/nng 형/xsn
+A20	고장	고장/nng
+A21	고정	고정/nng
+A22	고체형	고체/nng 형/xsn
+A23	곰팡이	곰팡이/nng
+A24	관리	관리/nng
+A25	광택,광채,광체	광택/nng광채/nng광체/nng
+A26	구김,구김,주름	구김/nng구김/nng주름/nng
+A27	구매,구입,매입,주문	구매/nng구입/nng매입/nng주문/nng
+A28	구매평,구매평,리뷰,사용후기,상품평,평,평가,품평,후기	구매/nng 평/xsn구매/nng 평/xsn리뷰/nng사용/nng 후기/nng상품평/nng평/nnb평가/nng품평/nng후기/nng
+A29	구성,세트,셋트,패키지구성	구성/nng세트/nng셋트/nng패키지/nng 구성/nng
+A30	구성품	구성/nng 품/xsn
+A31	그라데이션	그라데이션/nng
+A32	그리기	그리/vv 기/etn
+A33	그립감	그립/nng 감/xsn
+A34	금가루,금박가루	금/nng 가루/nng금박/nng 가루/nng
+A35	기능,기능면,기능측면,성능,효능,품질,효과,제품품질,제품력,기술,기술적,기술력	기능/nng기능/nng 면/xsn기능/nng 측면/nng성능/nng효능/nng품질/nng효과/nng제품/nng 품질/nng제품/nng 력/xsn기술/nng기술/nng 적/xsn기술/nng 력/xsn
+A36	기름기,기름,기름끼	기름/nng 기/xsn기름/nng기름/nng 끼/nnb
+A37	기름기 제거,기름제거	기름/nng 기/xsn 제거/nng기름/nng 제거/nng
+A38	기미	기미/nng
+A39	기분	기분/nng
+A40	기스,스크래치	기스/nng스크래치/nng
+A41	길이,길이감	길이/nng길이/nng 감/xsn
+A42	꿀성분	꿀/nng 성분/nng
+A43	끈적임,끈적거림,끈끈함,끈적,끈쩍,끊적	끈적임/nng끈적거리/vv ㅁ/etn끈끈하/va ㅁ/etn끈적/nng끈쩍/unk끊적/unk
+A44	낭비	낭비/nng
+A45	내구성	내구/nng 성/xsn
+A46	내용물	내용/nng 물/xsn
+A47	노란끼,노란기,노란빛	노란/nng 끼/nnb노란/nng 기/nng노란빛/nng
+A48	노페물	노폐/nng 물/xsn
+A49	노폐물	노폐/nng 물/xsn
+A50	노화방지	노화/nng 방지/nng
+A51	녹차성분	녹차/nng 성분/nng
+A52	농도	농도/nng
+A53	눅진함	눅지/vv ㄴ/etm 하/vx ㅁ/etn
+A54	눈가,눈주위,눈밑,눈아래,눈아랫쪽,눈꺼풀,눈두덩이	눈가/nng눈/nng 주위/nng눈/nng 밑/nng눈/nng 아래/nng눈/nng 아랫쪽/nng눈꺼풀/nng눈두덩이/nng
+A55	눈매연출,눈매,눈매표현	눈매/nng 연출/nng눈매/nng눈매/nng 표현/nng
+A56	눈썹	눈썹/nng
+A57	눈화장	눈/nng 화장/nng
+A58	느낌	느낌/nng
+A59	다크서클	다크/nng 서클/nng
+A60	달팽이성분,달팽이점액,달팽이진액,달팽이추출물,달팽이액	달팽이/nng 성분/nng달팽이/nng 점액/nng달팽이/nng 진액/nng달팽이/nng 추출/nng 물/xsn달팽이/nng 액/xsn
+A61	두께	두께/nng
+A62	들고다니기	들/vv 고/ec 다니/vv 기/etn
+A63	디자인,비쥬얼,비주얼,스타일	디자인/nng비쥬얼/nng비주얼/nng스타일/nng
+A64	뚜껑,덮개,마개	뚜껑/nng덮개/nng마개/nng
+A65	락토미세스 성분,락토미세스발효성분	락토/nnp 미세스/nnp 성분/nng락토/nnp 미세스/nnp 발효/nng 성분/nng
+A66	롤러	롤러/nng
+A67	롤링	롤링/nng
+A68	리프팅 효과	리프팅/nng 효과/nng
+A69	마무리,마무리감	마무리/nng마무리/nng 감/xsn
+A70	만족도,만족감	만족/nng 도/xsn만족/nng 감/xsn
+A71	매치	매치/nng
+A72	명성	명성/nng
+A73	모공	모공/nng
+A74	모공관리,모공케어,모공개선	모공/nng 관리/nng모공/nng 케어/nng모공/nng 개선/nng
+A75	모공수축,모공수축효과	모공/nng 수축/nng모공/nng 수축/nng 효과/nng
+A76	모공청소,모공클렌징	모공/nng 청소/nng모공/nng 클렌징/nng
+A77	무게,무게,중량	무게/nng무게/nng중량/nng
+A78	무게감,중량감	무게/nng 감/xsn중량/nng 감/xsn
+A79	무늬,무늬,문양	무늬/nng무늬/nng문양/nng
+A80	무스타입,무스형	무스/nng 타입/nng무스/nng 형/xsn
+A81	무알콜	무알콜/nng
+A82	무자극	무자극/nng
+A83	물,물놀이	물/nng물놀이/nng
+A84	물광효과,물광,물광느낌	물광/nng 효과/nng물광/nng물광/nng 느낌/nng
+A85	물타입	물/nng 타입/nng
+A86	뭉침,뭉침현상	뭉치/vv ㅁ/etn뭉치/vv ㅁ/etn 현상/nng
+A87	미네랄	미네랄/nng
+A88	미네랄오일	미네랄/nng 오일/nng
+A89	미들노트	미들/nng 노트/nng
+A90	미백,미백기능,미백효과,화이트닝기능	미백/nng미백/nng 기능/nng미백/nng 효과/nng화이트닝/nng 기능/nng
+A91	미세모	미세모/nng
+A92	민감성피부,민감피부	민감성/nng 피부/nng민감/nng 피부/nng
+A93	밀도	밀도/nng
+A94	밀림현상,밀림	밀림/nng 현상/nng밀림/nng
+A95	밀착력,밀착,밀착성,밀착감	밀착력/nng밀착/nng밀착/nng 성/xsn밀착/nng 감/xsn
+A96	밀크타입	밀크/nng 타입/nng
+A97	반짝이,반짝이,펄,빤짝,블링블링	반짝이/jks반짝이/jks펄/nng빤짝/mag블링블링/mag
+A98	발림,발림성,발림감	발림/nng발림/nng 성/xsn발림/nng 감/nng
+A99	발색,발색지속력	발색/nng발색/nng 지속/nng 력/xsn
+A100	발효 성분,발효추출물	발효/nng 성분/nng발효/nng 추출/nng 물/xsn
+A101	밤타입	밤/nng 타입/nng
+A102	방부제,방부제성분	방부/nng 제/xsn방부/nng 제/xsn 성분/nng
+A103	백태현상	백태/nng 현상/nng
+A104	백화현상	백화/nng 현상/nng
+A105	번들거림	번들거리/vv ㅁ/etn
+A106	번짐,번짐,번짐현상,팬더현상,펜더현상	번지/vv ㅁ/etn번지/vv ㅁ/etn번지/vv ㅁ/etn 현상/nng팬더/nng 현상/nng펜더/nng 현상/nng
+A107	베스트,이슈	베스트/nng이슈/nng
+A108	보관	보관/nng
+A109	보습,보습력,보습효과,보습기능,보습감,보습,피부보습	보습/nng보습력/nng보습/nng 효과/nng보습/nng 기능/nng보습/nng 감/xsn보습/nng피부/nng 보습/nng
+A110	보습막	보습/nng 막/nnb
+A111	보습성분	보습/nng 성분/nng
+A112	보습지속력,보습유지	보습/nng 지속/nng 력/xsn보습/nng 유지/nng
+A113	보정,보정력,보정효과	보정/nng보정/nng 력/xsn보정/nng 효과/nng
+A114	보호막	보호/nng 막/nng
+A115	볼륨,부피	볼륨/nng부피/nng
+A116	분사,분무	분사/nng분무/nng
+A117	분사감	분사/nng 감/xsn
+A118	분사량	분사/nng 량/nnb
+A119	분사력	분사력/nng
+A120	불량,불량품	불량/nng불량/nng 품/xsn
+A121	불만족	불만족/nng
+A122	불순물	불순/nng 물/xsn
+A123	붉은기,붉은끼	붉은기/nng붉/va 은/etm 끼/nnb
+A124	붓끝	붓끝/nng
+A125	붓발림	붓/nng 발림/nng
+A126	붓자국	붓자국/nng
+A127	붓펜타입,붓타입	붓펜/nng 타입/nng붓/nng 타입/nng
+A128	브랜드,메이커,브렌드,상표	브랜드/nng메이커/nng브렌드/nng상표/nng
+A129	브러쉬,솔,붓,부러쉬	브러쉬/nng솔/nng붓/nng부러쉬/nnp
+A130	브러시,솔,붓,부러쉬	브러시/nng솔/nng붓/nng부러쉬/nnp
+A131	블랙헤드,블랙해드,블렉헤드	블랙/nng 헤드/nng블랙/nng 해드/nng블렉/nng 헤드/nng
+A132	블랙헤드제거	블랙/nng 헤드/nng 제거/nng
+A133	블랜딩	블랜딩/nnp
+A134	비용,요금	비용/nng요금/nng
+A135	비타민	비타민/nng
+A136	비타민E	비타민/nng e/eng
+A137	비표	비표/nng
+A138	비표제거	비표/nng 제거/nng
+A139	뾰루지	뾰루지/nng
+A140	사용,이용,쓰기	사용/nng이용/nng쓰/vv 기/etn
+A141	사용감	사용/nng 감/xsn
+A142	사용량	사용/nng 량/xsn
+A143	사용방법,사용법,사용방식	사용/nng 방법/nng사용/nng 법/xsn사용/nng 방식/nng
+A144	사용설명서,설명서,제품사용설명서,제품설명서	사용/nng 설명/nng 서/xsn설명/nng 서/xsn제품/nng 사용/nng 설명서/nng제품/nng 설명서/nng
+A145	사이즈,치수,싸이즈	사이즈/nng치수/nng싸이즈/nng
+A146	상처회복	상처/nng 회복/nng
+A147	상태	상태/nng
+A148	상품,물품,상품,제품,판매상품	상품/nng물품/nng상품/nng제품/nng판매/nng 상품/nng
+A149	색상,빛깔,색,색들,색감,색깔,색조,칼라,컬러	색상/nng빛깔/nng색/nng색/nng 들/xsn색감/nng색깔/nng색조/nng칼라/nng컬러/nng
+A150	색소침착	색소/nng 침착/nng
+A151	샘플,견본,견본품,증정품,사은품	샘플/nng견본/nng견본/nng 품/xsn증정/nng 품/xsn사은품/nng
+A152	생산일자,생산일,생산날짜	생산/nng 일자/nng생/xp 산일/nng생산/nng 날짜/nng
+A153	성분,전성분	성분/nng전/xpn 성분/nng
+A154	세안감,세정감,세척감	세안/nng 감/nng세정/nng 감/xsn세척/nng 감/nng
+A155	세안력,세정력,세정효과,세척력,클렌징력	세안/nng 력/xsn세정력/nng세정/nng 효과/nng세척력/nng클렌징/nng 력/xsn
+A156	세정,세척	세정/nng세척/nng
+A157	속당김	속/nng 당기/vv ㅁ/etn
+A158	속눈썹	속/xpn 눈썹/nng
+A159	손상	손상/nng
+A160	수분,수분감,수분력,수분공급,수분공급효과	수분/nng수분/nng 감/xsn수분/nng 력/xsn수분/nng 공급/nng수분/nng 공급/nng 효과/nng
+A161	수분막	수분/nng 막/nnb
+A162	수분지속력,수분유지	수분/nng 지속/nng 력/xsn수분/nng 유지/nng
+A163	수분함량,수분함유량	수분/nng 함량/nng수분/nng 함유/nng 량/xsn
+A164	수정화장,수정시,수정용,수정화장시,수정화장용	수정/nng 화장/nng수정/nng 시/nnb수정/nng 용/xsn수정/nng 화장/nng 시/nnb수정/nng 화장/nng 용/xsn
+A165	순면	순면/nng
+A166	숲속향	숲속/nng 향/nng
+A167	쉐도우용	쉐도우/nng 용/xsn
+A168	쉐어버터	쉐어/nnp 버터/nng
+A169	스크럽 효과,스크럽	스크럽/nng 효과/nng스크럽/nng
+A170	스킨 밸런스	스킨/nng 밸런스/nng
+A171	스킨용도,스킨용,스킨대용	스킨/nng 용도/nng스킨/nng 용/xsn스킨/nng 대용/nng
+A172	스킨타입	스킨/nng 타입/nng
+A173	스틱,스틱타입,스틱형,스틱형식	스틱/nng스틱/nng 타입/nng스틱/nng 형/xsn스틱형/nng 식/xsn
+A174	스펀지,스폰지	스펀지/nng스폰지/nng
+A175	스포이드	스포이드/nng
+A176	스프레이,스프레이식,스프레이타입,스프레이형,스프레이형식	스프레이/nng스프레이/nng 식/xsn스프레이/nng 타입/nng스프레이/nng 형/xsn스프레이/nng 형식/nng
+A177	습진	습진/nng
+A178	시너지 효과	시너지/nng 효과/nng
+A179	시어버터향	시어/nng 버터/nng 향/nng
+A180	시트,씨트,시트팩,마스크팩	시트/nng씨트/nng시트/nng 팩/nng마스크팩/nng
+A181	시트러스향	시트러스/nng 향/nng
+A182	식물성분,식물성	식물/nng 성분/nng식물/nng 성/xsn
+A183	신상	신상/nng
+A184	실리콘	실리콘/nng
+A185	실리콘느낌	실리콘/nng 느낌/nng
+A186	실용성,실용성면	실용/nng 성/xsn실용성/nng 면/nnb
+A187	썬크림 대용	썬크림/nng 대용/nng
+A188	쑥향기	쑥/nng 향기/nng
+A189	쓰기	쓰/vv 기/etn
+A190	아기피부	아기/nng 피부/nng
+A191	아로마향	아로마향/nng
+A192	아세톤 냄새	아세톤/nng 냄새/nng
+A193	아저씨 느낌	아저씨/nng 느낌/nng
+A194	아저씨 향	아저씨/nng 향/nng
+A195	아침세안용	아침/nng 세안/nng 용/xsn
+A196	아쿠아느낌	아쿠아/nng 느낌/nng
+A197	아토피	아토피/nnp
+A198	악건성,악건성피부	악/nng 건성/nng악/nng 건성/nng 피부/nng
+A199	알갱이,알맹이	알갱이/nng알맹이/nng
+A200	알레르기	알레르기/nng
+A201	알로에 성분	알로에/nng 성분/nng
+A202	알로에 향	알로에/nng 향/nng
+A203	알코올,알콜,알코올,에탄올	알코올/nng알콜/nng알코올/nng에탄올/nng
+A204	알콜 냄새,알코올냄새,알코올향,알콜향,약품냄새	알콜/nng 냄새/nng알코올/nng 냄새/nng알코올/nng 향/nng알콜/unk 향/nng약품/nng 냄새/nng
+A205	액상타입,액상,액체타입	액상/nng 타입/nng액상/nng액체/nng 타입/nng
+A206	약품 향	약품/nng 향/nng
+A207	양조절	양/nng 조절/nng
+A208	얼룩	얼룩/nng
+A209	에센스 성분	에센스/nng 성분/nng
+A210	에센스 용,에센스대용	에센스/nng 용/nng에센스/nng 대용/nng
+A211	에센스 함량	에센스/nng 함량/nng
+A212	에센스타입	에센스/nng 타입/nng
+A213	여드름,좁쌀여드름,여드름자국	여드름/nng좁쌀/nng 여드름/nng여드름/nng 자국/nng
+A214	여드름 피부,여드름성피부,여드름흉터,여드름부위,여드름자국	여드름/nng 피부/nng여드름/nng 성/nng 피부/nng여드름/nng 흉터/nng여드름/nng 부위/nng여드름/nng 자국/nng
+A215	여름용,여름철	여름/nng 용/xsn여름/nng 철/xsn
+A216	염증	염증/nng
+A217	영양,영양감,영양분,영양공급	영양/nng영양/nng 감/xsn영양/nng 분/xsn영양/nng 공급/nng
+A218	오렌지향	오렌지/nng 향/nng
+A219	오일,오일성분,오일자체	오일/nng오일/nng 성분/nng오일/nng 자체/nng
+A220	오일감,오일기,오일느낌,오일질감	오일/nng 감/xsn오일/nng 기/xsn오일/nng 느낌/nng오일/nng 질감/nng
+A221	오일프리	오일/nng 프리/nng
+A222	오일향	오일/nng 향/nng
+A223	오토타입	오토/nng 타입/nng
+A224	온열감	온열/nng 감/nng
+A225	올리브향	올리브/nng 향/nng
+A226	올인원기능,올인원제품,올인원타입	올인원/nng 기능/nng올인원/nng 제품/nng올인원/nng 타입/nng
+A227	외관,외관,외형	외관/nng외관/nng외형/nng
+A228	외출시,외출용	외출/nng 시/nnb외출/nng 용/xsn
+A229	용기,용기,통,보틀,병,공병	용기/nng용기/nng통/nng보틀/nng병/nng공병/nng
+A230	용기 뚜껑	용기/nng 뚜껑/nng
+A231	용기 입구	용기/nng 입구/nng
+A232	용기 크기	용기/nng 크기/nng
+A233	용기입구	용기/nng 입구/nng
+A234	용기형	용기/nng 형/xsn
+A235	용도,쓰임새,용도	용도/nng쓰임/nng 새/xsn용도/nng
+A236	용량,양	용량/nng양/nng
+A237	용량대비 가격	용량/nng 대비/nng 가격/nng
+A238	용액	용액/nng
+A239	우드향	우드/nng 향/nng
+A240	우유 냄새	우유/nng 냄새/nng
+A241	우체국 택배	우체국/nng 택배/nng
+A242	우체국택배	우체국/nng 택배/nng
+A243	우편배송,우편	우편/nng 배송/nng우편/nng
+A244	워터로션	워터/nng 로션/nng
+A245	워터오일	워터/nng 오일/nng
+A246	워터타입	워터/nng 타입/nng
+A247	워터틴트	워터/nng 틴트/nng
+A248	워터틴트중	워터/nng 틴트/nng 중/nnb
+A249	워터푸르프	워터/nng 푸르프/nnp
+A250	워터프루프,워터푸르푸,워터푸르프,워터프루프	워터/nng 프루프/nnp워터푸르푸/unk워터/nng 푸르프/nnp워터/nng 프루프/nnp
+A251	워터프루프 기능	워터/nng 프루프/nnp 기능/nng
+A252	웜톤,웜톤피부	웜/nng 톤/nnb웜톤피부/unk
+A253	웜톤 피부,웜톤	웜/nng 톤/nnb 피부/nng웜/nng 톤/nnb
+A254	웨이브	웨이브/nng
+A255	유리병	유리/nng 병/nng
+A256	유분기,유분,유분기	유분기/nng유분/nng유분기/nng
+A257	유수분,유수분균형,유수분밸런스,유수분감,유수분조절	유수분/nng유수분/nng 균형/nng유수분/nng 밸런스/nng유수분/nng 감/nng유수분/nng 조절/nng
+A258	유지력,유지,지속력,지속성,유지시간	유지/nng 력/xsn유지/nng지속/nng 력/xsn지속/nng 성/xsn유지/nng 시간/nng
+A259	유통기간,유통기일,유통기한,유효기간,사용기한	유통/nng 기간/nng유통/nng 기일/nng유통/nng 기한/nng유효/nng 기간/nng사용/nng 기한/nng
+A260	유해성분,유해물질	유해/nng 성분/nng유해/nng 물질/nng
+A261	윤기,윤광	윤기/nng윤광/nnk
+A262	음영메이크업	음영/nng 메이크업/nng
+A263	음영섀도우	음영섀도우/nnp
+A264	이질감	이질/nng 감/xsn
+A265	인기,유명세,인지도,지명도	인기/nng유명/nng 세/xsn인지/nng 도/xsn지명/nng 도/xsn
+A266	인지도,유명세,인지도,지명도	인지/nng 도/xsn유명/nng 세/xsn인지/nng 도/xsn지명/nng 도/xsn
+A267	입소문,소문	입소문/nng소문/nng
+A268	입술	입술/nng
+A269	입자	입/vv 자/ef
+A270	자국	자국/nng
+A271	자극	자극/nng
+A272	자극성	자극/nng 성/xsn
+A273	자극적	자극/nng 적/xsn
+A274	자외선 지수,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 지수/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A275	자외선 차단,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A276	자외선 차단기능,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 기능/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A277	자외선 차단율,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 율/xsnspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A278	자외선 차단제,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 제/xsnspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A279	자외선 차단지수,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 지수/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A280	자외선 차단효과,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 효과/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A281	자외선차단,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A282	자외선차단 지수,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 지수/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A283	자외선차단기능,SPF,SPF지수,UV차단지수,자외선지수,자외선차단,자외선차단지수,자외선차단효과,자외선차단기능,자외선차단율,자외선차단제	자외/nng 선/xsn 차단/nng 기능/nngspf/engspf/eng 지수/nnguv/eng 차단/nng 지수/nng자외/nng 선/xsn 지수/nng자외/nng 선/xsn 차단/nng자외/nng 선/xsn 차단/nng 지수/nng자외/nng 선/xsn 차단/nng 효과/nng자외/nng 선/xsn 차단/nng 기능/nng자외/nng 선/xsn 차단/nng 율/xsn자외/nng 선/xsn 차단/nng 제/xsn
+A284	잔여물,잔존감	잔여/nng 물/xsn잔존/nng 감/nng
+A285	잔향	잔향/nng
+A286	잡티	잡티/nng
+A287	잡티 제거,잡티커버	잡티/nng 제거/nng잡티/nng 커버/nng
+A288	잡티 커버력	잡티/nng 커버/nng 력/xsn
+A289	잡티커버,잡티제거	잡티/nng 커버/nng잡티/nng 제거/nng
+A290	재구매욕구,재구매의사	재/xpn 구매/nng 욕구/nng재/xp 구매/nng 의사/nng
+A291	재구매 의사,재구매욕구	재/xp 구매/nng 의사/nng재/xpn 구매/nng 욕구/nng
+A292	재생효과,재생력,재생,재생기능	재생/nng 효과/nng재생/nng 력/xsn재생/nng재생/nng 기능/nng
+A293	재생성분	재생/nng 성분/nng
+A294	점도	점/nnb 도/jx
+A295	접착력,접착성	접착/nng 력/xsn접착/nng 성/xsn
+A296	제조기간	제조/nng 기간/nng
+A297	제조일자,생산일,제조날짜,제조일,제조일자	제조/nng 일자/nng생/xp 산일/nng제조/nng 날짜/nng제조/nng 일/nnb제조/nng 일자/nng
+A298	제품 가격,정품가격	제품/nng 가격/nng정품/nng 가격/nng
+A299	제품 기대	제품/nng 기대/nng
+A300	제품 냄새	제품/nng 냄새/nng
+A301	제품 뚜껑	제품/nng 뚜껑/nng
+A302	제품 만족도	제품/nng 만족/nng 도/xsn
+A303	제품 성분	제품/nng 성분/nng
+A304	제품 용기	제품/nng 용기/nng
+A305	제품 유효기간	제품/nng 유효/nng 기간/nng
+A306	제품 케이스	제품/nng 케이스/nng
+A307	제품 포장	제품/nng 포장/nng
+A308	제형,제형감	제형/nng제형/nng 감/xsn
+A309	젤크림	젤/nng 크림/nng
+A310	젤타입	젤/nng 타입/nng
+A311	좁쌀여드름,좁쌀트러블	좁쌀/nng 여드름/nng좁쌀/nng 트러블/nng
+A312	종류	종류/nng
+A313	주름	주름/nng
+A314	주름끼임	주름/nng 끼이/vv ㅁ/etn
+A315	주름 개선,주름개선효과,주름예방	주름/nng 개선/nng주름/nng 개선/nng 효과/nng주름/nng 예방/nng
+A316	주름개선기능	주름/nng 개선/nng 기능/nng
+A317	지복합성 피부	지복합/nng 성/xsn 피부/nng
+A318	지복합성피부	지복합/nng 성/xsn 피부/nng
+A319	지성	지성/nng
+A320	지성피부	지성/nng 피부/nng
+A321	지성피부용	지성/nng 피부/nng 용/xsn
+A322	지속력,지속성,지속시간,지속,화장지속력	지속/nng 력/xsn지속/nng 성/xsn지속/nng 시간/nng지속/nng화장/nng 지속/nng 력/xsn
+A323	진정효과,피부진정,피부진정효과,수딩,수딩효과	진정/nng 효과/nng피부/nng 진정/nng피부/nng 진정/nng 효과/nng수딩/nng수딩/nng 효과/nng
+A324	차단지수	차단/nng 지수/nng
+A325	차단효과	차단/nng 효과/nng
+A326	착용감,착용감,착화감	착용/nng 감/xsn착용/nng 감/xsn착화/nng 감/xsn
+A327	청량감	청량/nng 감/xsn
+A328	촉촉함,촉촉	촉촉하/va ㅁ/etn촉촉/mag
+A329	커버력,커버,커버효과	커버/nng 력/xsn커버/nng커버/nng 효과/nng
+A330	컬링효과,컬링,컬링감	컬링/nng 효과/nng컬링/nng컬링/nng 감/xsn
+A331	케이스,용기	케이스/nng용기/nng
+A332	케이스 내구성	케이스/nng 내구/nng 성/xsn
+A333	케이스 색깔	케이스/nng 색깔/nng
+A334	케이스 색상	케이스/nng 색상/nng
+A335	코코넛 오일	코코넛/nng 오일/nng
+A336	쿨링감,쿨링효과	쿨링/nng 감/xsn쿨링/nng 효과/nng
+A337	쿨톤피부,쿨톤	쿨톤피부/unk쿨/nng 톤/nnb
+A338	퀄러티,품질	퀄러티/nng품질/nng
+A339	퀄리티,품질	퀄리티/nng품질/nng
+A340	크기	크기/nng
+A341	크림 타입	크림/nng 타입/nng
+A342	크림느낌	크림/nng 느낌/nng
+A343	크림제형	크림/nng 제형/nng
+A344	크림타임	크림/nng 타임/nng
+A345	크림타입	크림/nng 타입/nng
+A346	클렌징,클린징,클랜징,크렌징,클링징,클레징,크린징,클렌싱	클렌징/nng클린징/nng클랜징/nng크렌징/nng클링징/unk클레징/unk크린징/unk클렌싱/nnp
+A347	클렌징 효과,클렌징기능	클렌징/nng 효과/nng클렌징/nng 기능/nng
+A348	클렌징효과,클렌징기능	클렌징/nng 효과/nng클렌징/nng 기능/nng
+A349	탄력	탄력/nng
+A350	탄력성	탄력/nng 성/xsn
+A351	탈취효과	탈취/nng 효과/nng
+A352	튜브형	튜브/nng 형/xsn
+A353	트러블	트러블/nng
+A354	트러블 진정	트러블/nng 진정/nng
+A355	티존 부위	티존/nng 부위/nng
+A356	티존부위	티존/nng 부위/nng
+A357	틴트느낌	틴트/nng 느낌/nng
+A358	파라벤 성분	파라벤/nng 성분/nng
+A359	파우더 브러쉬	파우더/nng 브러쉬/nng
+A360	파우더 향	파우더/nng 향/nng
+A361	파우더기름종이	파우더/nng 기름/nng 종이/nng
+A362	파운데이션 브러쉬	파운데이션/nng 브러쉬/nng
+A363	파운데이션 사이즈	파운데이션/nng 사이즈/nng
+A364	팔자주름	팔자/nng 주름/nng
+A365	팩	팩/nng
+A366	팩트색상	팩트/nng 색상/nng
+A367	펄 입자,펄가루	펄/nng 입자/nng펄/nng 가루/nng
+A368	펄감	펄/nng 감/xsn
+A369	펄입자	펄/nng 입자/nng
+A370	펌프	펌프/nng
+A371	펌프형	펌프/nng 형/xsn
+A372	펌핑기	펌핑/nng 기/xsn
+A373	페이스 오일	페이스/nng 오일/nng
+A374	페퍼민트향	페퍼민트/nng 향/nng
+A375	펜슬	펜슬/nng
+A376	펜슬라이너	펜슬/nng 라이너/nng
+A377	펜슬심지	펜슬/nng 심지/nng
+A378	펜슬아이라이너	펜슬/nng 아이/nng 라이너/nng
+A379	펜슬타입	펜슬/nng 타입/nng
+A380	펩타이드성분	펩타이드/nnp 성분/nng
+A381	포장	포장/nng
+A382	피부,피부결	피부/nng피부/nng 결/xsn
+A383	피부 윤기	피부/nng 윤기/nng
+A384	피부 자극	피부/nng 자극/nng
+A385	피부 재생	피부/nng 재생/nng
+A386	피부 정돈	피부/nng 정돈/nng
+A387	피부 탄력	피부/nng 탄력/nng
+A388	피부 톤	피부/nng 톤/nnb
+A389	피부 표현,피부표면	피부/nng 표현/nng피부/nng 표면/nng
+A390	피부 화장	피부/nng 화장/nng
+A391	피부 흡수	피부/nng 흡수/nng
+A392	피부,피부결	피부/nng피부/nng 결/xsn
+A393	피부정돈,피부결정돈,피부결개선	피부/nng 정돈/nng피부/nng 결/xsn 정돈/nng피부/nng 결/xsn 개선/nng
+A394	피부자극,피부손상	피부/nng 자극/nng피부/nng 손상/nng
+A395	피부톤,얼굴피부톤,안색,얼굴톤,얼굴색,얼굴빛	피부톤/nng얼굴/nng 피부톤/nng안색/nng얼굴/nng 톤/nng얼굴색/nng얼굴/nng 빛/nng
+A396	피부톤 보정,피부톤개선	피부톤/nng 보정/nng피부톤/nng 개선/nng
+A397	피부표현,피부화장,피부흡수	피부/nng 표현/nng피부/nng 화장/nng피부/nng 흡수/nng
+A398	피지	피/vv 지/ec
+A399	피지관리	피지/nng 관리/nng
+A400	향기,향,내음,냄새	향기/nng향/nng내음/nng냄새/nng
+A401	향 지속력,향지속도,향지속성	향/nng 지속/nng 력/xsn향/nng 지속/nng 도/jx향/nng 지속/nng 성/xsn
+A402	향지속력,향지속도,향지속성	향/nng 지속/nng 력/xsn향/nng 지속/nng 도/jx향/nng 지속/nng 성/xsn
+A403	향수 대용	향수/nng 대용/nng
+A404	향수대용	향수/nng 대용/nng
+A405	향수병	향수/nng 병/nng
+A406	화농성 여드름	화농/nng 성/xsn 여드름/nng
+A407	화농성여드름	화농/nng 성/xsn 여드름/nng
+A408	화학 성분	화학/nng 성분/nng
+A409	화학냄새,화학약품냄새,휘발성냄새	화학/nng 냄새/nng화학/nng 약품/nng 냄새/nng휘발/nng 성/xsn 냄새/nng
+A410	화학성분	화학/nng 성분/nng
+A411	활용도,활용성	활용/nng 도/jx활용/nng 성/xsn
+A412	활용법	활용/nng 법/xsn
+A413	휘발성	휘발/nng 성/xsn
+A414	휴대성,휴대용	휴대/nng 성/nnb휴대/nng 용/xsn
+A415	흉터	흉터/nng
+A416	흡수력,흡수성,흡수감	흡수/nng 력/xsn흡수/nng 성/xsn흡수/nng 감/xsn

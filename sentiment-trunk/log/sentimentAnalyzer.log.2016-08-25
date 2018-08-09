@@ -1,0 +1,1152 @@
+[2016-08-25 10:23:30][INFO ](NLPUtils.java:37) - NLP initializing ....
+[2016-08-25 10:23:31][INFO ](NLPUtils.java:39) - NLP initializing done
+[2016-08-25 10:24:25][INFO ](NLPUtils.java:37) - NLP initializing ....
+[2016-08-25 10:24:26][INFO ](NLPUtils.java:39) - NLP initializing done
+[2016-08-25 10:24:26][INFO ](Collocation.java:212) - collocation dictionary is loading ....
+[2016-08-25 10:24:26][INFO ](Collocation.java:248) - collocation dictionary is loading done
+[2016-08-25 10:24:26][INFO ](SentimentDict.java:77) - dictionary files are all ready to be read for category: 151
+[2016-08-25 10:24:26][INFO ](SentimentDict.java:80) - attribute dictionary loading ....
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A1	NULL	null/eng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A2	가격대비 스펙	가격/nng 대비/nng 스펙/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A3	건전지,건전지,밧데리,배터리,베터리	건전지/nng건전지/nng밧데리/nng배터리/nng베터리/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A4	결함	결함/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A5	고장	고장/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A6	관리	관리/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A7	구김,구김,주름	구김/nng구김/nng주름/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A8	내열성	내열/nng 성/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A9	등급	등급/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A10	디자인,디자인,디자인디자인	디자인/nng디자인/nng디자인/nng 디자인/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A11	디테일	디테일/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A12	라인,라인,선,윤곽	라인/nng라인/nng서/vv ㄴ/etm윤곽/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A13	마감처리	마감/nng 처리/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A14	마모	마모/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A15	만족도	만족/nng 도/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A16	모양,모습,모양,형태	모양/nng모습/nng모양/nng형태/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A17	무게,무게,중량	무게/nng무게/nng중량/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A18	무늬,무늬,문양	무늬/nng무늬/nng문양/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A19	바느질,바느질,박음질,재봉	바느질/nng바느질/nng박음질/nng재봉/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A20	바느질상태,바느질 상태,바느질상태	바느질/nng 상태/nng바느질/nng 상태/nng바느질/nng 상태/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A21	바느질선,바느질선,박음질선	바느질/nng 선/xsn바느질/nng 선/xsn박음질/nng 선/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A22	반응	반응/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A23	발열	발열/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A24	발열량	발열량/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A25	방열성	방열/nng 성/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A26	배터리 사용시간	배터리/nng 사용/nng 시간/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A27	뽀대	뽀대/unk
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A28	상태	상태/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A29	성능	성능/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A30	스타일	스타일/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A31	안전	안전/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A32	안전성	안전/nng 성/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A33	연결	연결/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A34	완성도	완성/nng 도/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A35	인기	인기/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A36	잔고장	잔고/nng 장/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A37	전자파	전자/nng 파/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A38	진동	진동/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A39	퀄리티,퀄리티,품질	퀄리티/nng퀄리티/nng품질/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A40	효과,효과,효능,효력	효과/nng효과/nng효능/nng효력/nng
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A41	흡수력	흡수/nng 력/xsn
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:220) - wrong entry: A42	흡입력	흡입력/nng
+[2016-08-25 10:24:26][INFO ](SentimentDict.java:83) - attribute dictionary loading done
+[2016-08-25 10:24:26][INFO ](SentimentDict.java:86) - expression dictionary loading ....
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1	가격에 알맞은 제품이다	가격/nng 제품/nng 알맞/va ./. |/|	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E2	가혹하게 무겁다	가혹/nng 무겁/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E3	거적데기 같다	거적/nng 같/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E4	겨울에 잘 얼다	겨울/nng 잘/mag 얼/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E5	고 내열성이다	고/nng 내열/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E6	고성능이다	성능/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E7	깃털같이 가볍다	깃털/nng 가볍/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E8	노친네 같다	노친네/nng 같/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E9	돈 낭비다	돈/nng 낭비/nng 다/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E10	돈 아깝다	돈/nng 아깝/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E11	들기 쉽다	들/vv 쉽/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E12	들기 어렵다	들/vv 어렵/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E13	들기 힘들다	들/vv 힘들/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E14	들만 하다	들/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E15	만능이다	만능/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E16	못보던 디자인이다	못/mag 보/vv 디자인/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E17	무거운감 있다	무겁/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E18	무겁다	무겁/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E19	물에 약하다	물/nng 약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E20	반응 좋다	반응/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E21	방습되다	방습/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E22	비싼값 하다	비/nng 싼값/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E23	비싼티 나다	비/nng 싼티/nng 나/np	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E24	사자마자 고장나다	사/vv 고장/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E25	삼류다	삼류/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E26	수출용만 좋다	수출/nng 좋/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E27	쉽게 고장나다	쉽/va 고장/nng 나/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E28	스타일 연출 수월하다	스타일/nng 연출/nng 수월/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E29	스타일 연출 쉽다	스타일/nng 연출/nng 쉽/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E30	스타일 연출 어렵다	스타일/nng 연출/nng 어렵/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E31	시간 절약되다	시간/nng 절약/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E32	안전성까지 챙기다	안/mag 전성/nng 챙기/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E33	안전성이 무기다	안전/nng 무기/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E34	안전성평가에서 1 등급 획득하다	안/mag 전성/nng 평가/nng 1/sn 등급/nng 획득/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E35	열에 약하다	열/nng 약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E36	오염에 약하다	오염/nng 약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E37	유명하다	유명/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E38	이미테이션 같다	이미테이션/nng 같/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E39	입고 벗기 불편하다	입/vv 벗/vv 불편/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E40	입고 벗기 편하다	입/vv 벗/vv 편하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E41	입기 불편하다	입/vv 불편/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E42	입기 편하다	입/vv 편하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E43	잘 망가지다	잘/mag 망가지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E44	잘 부서지다	잘/mag 부서지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E45	저사양인데 제법이다	사양/nng 제법/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E46	조용하다	조용/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E47	충격에 강하다	충격/nng 강하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E48	코디하기 좋다	코디/nng 하기/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E49	튀지 않으면서 부담없다	튀/vv 부담/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E50	품질이 낮기로 유명하다	품질/nng 낮/va 유명/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E51	한번썼는데 고장나다	한/nr 쓰/vv 고장/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E52	꽝이다	꽝/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E53	금방 닳다	금방/mag 닳/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E54	약하다	약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E55	많다	많/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E56	심하다	심하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E57	있다	있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E58	규칙적으로 발생하다	규칙/nng 발생/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E59	많다	많/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E60	빈번하다	빈번/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E61	잦다	잦/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E62	용이하다	용이/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E63	우아하다	우아하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E64	높다	높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E65	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E66	가격대비 최고다	가격/nng 대비/nng 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E67	간지 나다	간지/nng 나/np	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E68	간지 넘치다	간지/nng 넘치/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E69	간지 흐르다	간지/nng 흐르/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E70	감각적이다	감각/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E71	감동스럽다	감동/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E72	감동적이다	감동/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E73	감성이 묻어나다	감성/nng 묻어나/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E74	감성적이다	감성/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E75	감탄할만하다	감탄/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E76	갑갑하다	갑갑/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E77	강렬하다	강렬/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E78	개념없다	개념/nng 없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E79	개성있다	개성/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E80	개판 오분전이다	개판/nng 오/nr 분전/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E81	개판이다	개판/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E82	거북스럽다	거북스럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E83	거북하다	거북하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E84	걸레같다	걸레/nng 같/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E85	겉만 번지르르하다	겉/nng 번지르르/mag 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E86	격조 낮다	격조/nng 낮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E87	격조 높다	격조/nng 높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E88	견고하다	견고/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E89	경박스럽다	경박/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E90	경박하다	경박/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E91	경이롭다	경이/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E92	경쟁력 있다	경쟁/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E93	고급스럽다	고급/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E94	고루하다	고루/mag 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E95	고리타분하다	고리타분하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E96	고유하다	고유/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E97	고품격이다	품격/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E98	고풍스럽다	고풍/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E99	곱다	곱/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E100	곱디곱다	곱디곱/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E101	과감하다	과감하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E102	관심받을 만 하다	관심/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E103	괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E104	괜찮은 거 같다	괜찮/va ./. |/| 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E105	괜찮은 것 같다	괜찮/va ./. |/| 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E106	괴상하다	괴상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E107	괴이하다	괴이/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E108	굉장하다	굉장/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E109	구리다	구리/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E110	군더더기 없다	군더더기/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E111	굳이다	굳이/mag 다/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E112	굿이다	굿/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E113	귀엽다	귀엽/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E114	귀티 나다	귀티/nng 나/np	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E115	귀티 흐르다	귀티/nng 흐르/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E116	그럴 듯 하다	그렇/va 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E117	그럴듯하다	그럴듯하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E118	그럴싸하다	그럴싸/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E119	기괴하다	기괴/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E120	기대 이상이다	기대/nng 이상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E121	기대 이하다	기대/nng 이하/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E122	기대보다 낫다	기대/nng 낫/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E123	기대보다 못하다	기대/nng 못하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E124	기대보다 좋다	기대/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E125	기똥차다	기똥차/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E126	기막히다	기막히/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E127	기발하다	기발하/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E128	깔끔하다	깔끔/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E129	깜찍하다	깜찍하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E130	깨끗하다	깨끗/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E131	꼴불견이다	꼴불견/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E132	꼴사납다	꼴사납/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E133	꽝이다	꽝/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E134	끌리다	끌리/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E135	끔찍하다	끔찍/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E136	나무랄 곳이 없다	나무라/vv 곳/nng 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E137	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E138	낙후되다	낙후/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E139	난감하다	난감/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E140	난해하다	난해/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E141	낡다	낡/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E142	남다르다	남다르/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E143	남사스럽다	남사스럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E144	내 스타일이다	나/np 스타일/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E145	너저분하다	너저분하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E146	놀랍다	놀랍/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E147	누구나 갖고 싶어하다	누구/np 갖/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E148	누구든지 어울리다	누구/np 어울리/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E149	누구에게나 어울리다	누구/np 어울리/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E150	눈길 가다	눈길/nng 가/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E151	눈길 끌다	눈길/nng 끌/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E152	눈부시게 아름답다	눈부시/va 아름답/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E153	눈부시다	눈부시/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E154	눈부시도록 아름답다	눈부시/va 아름답/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E155	눈살 찌푸려지다	눈살/nng 찌푸리/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E156	눈에 차다	눈/nng 차/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E157	다이내믹하다	다이내믹/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E158	다채롭다	다채/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E159	단아하다	단아하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E160	단연 최고다	단연/mag 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E161	단정하다	단정/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E162	답답하다	답답/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E163	당혹스럽다	당혹/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E164	당황스럽다	당황/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E165	대담하다	대담/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E166	대만족이다	만족/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E167	더없이 좋다	더없이/mag 좋/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E168	독보적이다	독보/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E169	독창성 있다	독창/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E170	독창적이다	독창/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E171	독특하다	독특/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E172	돋보이다	돋보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E173	둔해 보이다	둔하/va 보이/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E174	뒤떨어지다	뒤떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E175	디테일 하다	디테일/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E176	딱딱하다	딱딱/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E177	딱이다	딱/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E178	떨어지다	떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E179	똑똑하다	똑똑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E180	뛰어나다	뛰어나/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E181	러블리하다	러블리/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E182	럭셔리하다	럭셔리/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E183	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E184	마이너스 요소다	마이너스/nng 요소/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E185	막강하다	막강/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E186	만족스럽다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E187	만족하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E188	만족할 만하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E189	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E190	맞춤이다	맞춤/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E191	매끈하다	매끈하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E192	매력적이다	매력/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E193	멀끔하다	멀끔하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E194	멋드러지다	멋들/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E195	멋있다	멋있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E196	멋지다	멋지/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E197	명품 수준이다	명품/nng 수준/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E198	모던하다	모던/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E199	못마땅하다	못마땅/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E200	무난하다	무난/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E201	문제 많다	문제/nng 많/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E202	문제없다	문제/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E203	문제있다	문제/nng 있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E204	뭔가 허전하다	뭐/np 허전하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E205	뭥미	뭥미/unk	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E206	미끈하다	미끈하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E207	미래지향적이다	미래/nng 지향/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E208	미흡하다	미흡/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E209	믿음직스럽다	믿음직/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E210	밉다	밉/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E211	밋밋하다	밋밋하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E212	밋밋해 보이다	밋밋하/va 보이/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E213	바람직하다	바람직/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E214	범상치 않다	범상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E215	베낀것 같다	베끼/vv 같/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E216	별로다	별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E217	별루다	별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E218	보기만해도 뿌듯하다	보/vv 뿌듯/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E219	복잡하다	복잡/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E220	볼품없다	볼품없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E221	부끄럽다	부끄럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E222	부담되다	부담/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E223	부담스럽다	부담/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E224	부실하다	부실/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E225	부자연스럽다	부자연/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E226	분위기 있다	분위기/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E227	불만스럽다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E228	불만이다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E229	불만족스럽다	불만족/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E230	불안정하다	불안정/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E231	불완전하다	불완전/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E232	불편하다	불편/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E233	불필요하다	필요/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E234	빈약하다	빈약/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E235	빈티 나다	빈티/nng 나/np	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E236	빛나다	빛나/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E237	빠지다	빠지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E238	빵빵하다	빵빵하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E239	빵점이다	빵점/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E240	빼어나다	빼어나/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E241	뻔하다	뻔하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E242	뽀대나다	뽀대나/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E243	사랑스럽다	사랑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E244	삭막하다	삭막/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E245	산뜻하다	산뜻/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E246	산만하다	산만하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E247	새롭다	새롭/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E248	색다르다	색다르/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E249	생각보다 별로다	생각/nng 별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E250	생각보다 별루다	생각/nng 별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E251	섬세하다	섬세하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E252	성숙하다	성숙/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E253	세련되다	세련/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E254	섹시하다	섹시/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E255	센스 있다	센스/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E256	소장가치 있다	소장/nng 가치/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E257	손색없다	손색없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E258	수려하다	수려하/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E259	쉬크하다	쉬크/nnp 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E260	스타일리쉬하다	스타일/nng 리쉬/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E261	시대에 맞다	시대/nng 맞/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E262	시대에 역행하다	시대/nng 역/nng 행하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E263	시시하다	시시/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E264	시원스럽다	시원/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E265	식상하다	식상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E266	신경쓰다	신경쓰/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E267	신비롭다	신비/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E268	신선하다	신선/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E269	실망스럽다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E270	실망하다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E271	실용적이다	실용/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E272	심심하다	심심/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E273	심플하다	심플하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E274	싸구려 같다	싸구려/nng 같/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E275	쌈박하다	쌈/nng 박하/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E276	쌈박해서 기대 이상이다	쌈/nng 박하/vv 기대/nng 이상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E277	쌈박해서 딱이다	쌈/nng 박하/vv 딱/mag	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E278	쌈박해서 마음에 들다	쌈/nng 박하/vv 마음/nng 들/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E279	쌈박해서 맘에 들다	쌈/nng 박하/vv 맘/nng 들/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E280	쌈박해서 최고다	쌈/nng 박하/vv 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E281	쓰레기다	쓰레기/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E282	쓸데없다	쓸데없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E283	쓸만하다	쓰/vv 만하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E284	쓸모없다	쓸모없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E285	아기자기 하다	아기자기/mag 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E286	아름답다	아름답/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E287	아쉬움 남다	아쉬움/nng 남/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E288	아쉽다	아쉽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E289	안습이다	안습/unk	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E290	안쓰럽다	안쓰럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E291	안정감 있다	안정/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E292	안타깝다	안타깝/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E293	압권이다	압권/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E294	앙증맞게 귀엽다	앙증맞/va 귀엽/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E295	앙증맞다	앙증맞/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E296	앙증스럽다	앙증/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E297	어디서 본듯하다	어디/np 보/vv	0
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E298	어색하다	어색/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E299	어설프다	어설프/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E300	어여쁘다	어여쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E301	어이없다	어이없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E302	엉망이다	엉망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E303	엉망진창이다	엉망진창/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E304	엉성하다	엉성/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E305	엣지있다	엣지/nnp 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E306	여심 사로잡다	여심/nng 사로잡/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E307	영 아니다	영/mag 아니/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E308	예쁘게 나오다	예쁘/va 나오/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E309	예쁘다	예쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E310	예쁘장하다	예쁘장하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E311	예술이다	예술/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E312	예술품 같다	예술/nng 같/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E313	오감을 만족시키다	오감/nng 만족/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E314	완벽하다	완벽/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E315	왕짜증나다	왕/nng 짜증/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E316	요상하다	요상/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E317	우수하다	우수/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E318	우습다	우습/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E319	우아하다	우아하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E320	우울하다	우울/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E321	우월하다	우월/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E322	월등하다	월등/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E323	위대하다	위대/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E324	유니크하다	유니크하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E325	유일하다	유일/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E326	유행에 맞다	유행/nng 맞/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E327	유행을 선도하다	유행/nng 선도/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E328	유행을 이끌다	유행/nng 이끌/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E329	은은하다	은은하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E330	의외로 좋다	의외로/mag 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E331	이름값 하다	이름/nng 값/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E332	이쁘다	이쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E333	이상적이다	이상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E334	이상하다	이상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E335	이채롭다	이채/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E336	이해하기 힘들다	이해/nng 힘들/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E337	인기 있다	인기/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E338	인상적이다	인상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E339	자랑할 만하다	자랑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E340	자부할 만하다	자부/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E341	자연스럽다	자연/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E342	자연친화적이다	자연/nng 친화/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E343	잘 나오다	잘/mag 나오/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E344	잘빠지다	잘/mag 빠지/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E345	재미나다	재미나/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E346	잼나다	잼/nng 나/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E347	저렴하다	저렴/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E348	적당하다	적당/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E349	적절하다	적절/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E350	절묘하다	절묘/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E351	젊다	젊/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E352	정교하다	정교/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E353	정돈된 느낌을 주다	정돈/nng 느낌/nng 주/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E354	조잡하다	조잡하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E355	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E356	준수하다	준수/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E357	지겹다	지겹/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E358	지나치다	지나치/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E359	진부하다	진부/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E360	짜임새 있다	짜임/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E361	짜증나다	짜증/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E362	짜증스럽다	짜증/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E363	짝퉁같다	짝퉁/nng 같/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E364	짱이다	짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E365	짱짱이다	짱짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E366	쩐다	쩐/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E367	찌질하다	찌질하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E368	차별화되다	차별/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E369	참신하다	참신하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E370	참하다	참하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E371	창의적이다	창의/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E372	창조적이다	창조/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E373	천박하다	천박/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E374	촌스럽다	촌스럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E375	최고다	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E376	최고로 손꼽히다	최고/nng 손꼽히/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E377	최첨단이다	첨단/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E378	칙칙하다	칙칙하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E379	친근하다	친근하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E380	친숙하다	친숙하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E381	친환경적이다	환경/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E382	큐트하다	큐트하다/unk	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E383	큐트해 보이다	큐트/nnp 보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E384	탁월하다	탁월/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E385	터무니없다	터무니없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E386	트렌드 이끌다	트렌드/nng 이끌/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E387	특별하다	특별/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E388	퍼펙트하다	퍼펙트/nng 하/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E389	편리하다	편리/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E390	평범하게 보이다	평범/nng 보이/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E391	품위 있다	품위/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E392	프로페셔널하다	프로/nng 페셔널/nnp 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E393	하잘것없다	하잘것없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E394	하찮다	하찮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E395	한국 최고다	한국/nnp 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E396	한심스럽다	한심/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E397	한심하다	한심/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E398	한정판이다	한정/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E399	합리적이다	합리/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E400	해괴망측하다	해괴망측/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E401	해괴하다	해괴/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E402	허름하다	허름하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E403	허술하다	허술/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E404	허접하다	허접하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E405	혁신적이다	혁신/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E406	형편없다	형편없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E407	화나다	화나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E408	화사하다	화사하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E409	환상적이다	환상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E410	황당하다	황당하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E411	황홀하다	황홀/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E412	후지다	후지/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E413	훌륭하다	훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E414	흉측하다	흉측/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E415	흉하다	흉하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E416	흔하다	흔하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E417	흠 투성이다	흠/nng 투성이/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E418	흡족하다	흡족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E419	흥미롭다	흥미/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E420	살아있다	살/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E421	입체적이다	입체/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E422	미흡하다	미흡/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E423	덜하다	덜하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E424	최고다	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E425	깔끔하다	깔끔/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E426	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E427	가볍다	가볍/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E428	가뿐하다	가뿐하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E429	괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E430	괜찮은 거 같다	괜찮/va ./. |/| 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E431	괜찮은 것 같다	괜찮/va ./. |/| 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E432	대만족이다	만족/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E433	더없이 좋다	더없이/mag 좋/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E434	딱이다	딱/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E435	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E436	만족스럽다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E437	만족하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E438	만족할 만하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E439	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E440	못마땅하다	못마땅/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E441	무난하다	무난/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E442	별로다	별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E443	별루다	별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E444	불만이다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E445	불만족스럽다	불만족/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E446	상당하다	상당/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E447	안정감 있다	안정/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E448	알맞다	알맞/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E449	육중하다	육중/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E450	의외로 좋다	의외로/mag 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E451	이상적이다	이상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E452	적당하다	적당/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E453	적절하다	적절/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E454	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E455	크기에 비해 가볍다	크기/nng 비하/vv 가볍/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E456	고급스럽다	고급/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E457	고급이다	고급/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E458	곱다	곱/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E459	괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E460	구리다	구리/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E461	귀엽다	귀엽/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E462	깔끔하다	깔끔/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E463	꽝이다	꽝/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E464	너저분하다	너저분하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E465	대만족이다	만족/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E466	돋보이다	돋보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E467	딱이다	딱/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E468	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E469	만족스럽다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E470	만족하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E471	만족할 만하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E472	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E473	멋있다	멋있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E474	멋지다	멋지/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E475	못마땅하다	못마땅/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E476	무난하다	무난/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E477	뭉개지다	뭉개지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E478	밋밋하다	밋밋하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E479	번잡하다	번잡/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E480	별로다	별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E481	별루다	별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E482	볼품없다	볼품없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E483	불량이다	불량/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E484	불만이다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E485	불만족스럽다	불만족/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E486	삐뚤다	삐뚤/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E487	삐뚤어지다	삐뚤어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E488	사랑스럽다	사랑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E489	산만하다	산만하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E490	새롭다	새롭/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E491	선명하다	선명/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E492	세련되다	세련/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E493	실망스럽다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E494	실망하다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E495	심플하다	심플하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E496	싼티나다	싼티나/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E497	알맞다	알맞/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E498	어색하다	어색/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E499	어수선하다	어수선/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E500	어지럽다	어지럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E501	엉망이다	엉망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E502	엉망진창이다	엉망진창/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E503	엉성하다	엉성/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E504	예쁘다	예쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E505	요란하다	요란/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E506	유아틱하다	유아틱/unk	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E507	유치하다	유치/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E508	의외로 좋다	의외로/mag 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E509	이쁘다	이쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E510	이상적이다	이상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E511	이상하다	이상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E512	자연스럽다	자연/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E513	적절하다	적절/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E514	정교하다	정교/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E515	정신사납다	정신/nng 사납/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E516	정신없다	정신/nng 없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E517	조화롭다	조화/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E518	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E519	차분하다	차분/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E520	촌발날리다	촌/nng 발/nng 날리/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E521	촌스럽다	촌스럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E522	촌티나다	촌티/nng 나/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E523	코디하기 어렵다	코디/nng 하기/nng 어렵/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E524	형편없다	형편없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E525	환상적이다	환상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E526	훌륭하다	훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E527	거칠다	거칠/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E528	깨끗하다	깨끗/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E529	꼼꼼하다	꼼꼼하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E530	느슨하다	느슨하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E531	불량이다	불량/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E532	섬세하다	섬세하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E533	실망스럽다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E534	아쉽다	아쉽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E535	야무지다	야무지/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E536	약하다	약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E537	엉성하다	엉성/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E538	예쁘다	예쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E539	울다	울/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E540	이상하다	이상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E541	잘되다	잘되/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E542	잘못되다	잘/mag 못되/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E543	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E544	지저분하다	지저분/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E545	촘촘하다	촘촘하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E546	퍼펙트하다	퍼펙트/nng 하/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E547	허술하다	허술/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E548	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E549	양호하다	양호/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E550	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E551	고르다	고르/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E552	틀어지다	틀어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E553	늦다	늦/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E554	적다	적/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E555	적다	적/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E556	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E557	낮다	낮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E558	높다	높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E559	적다	적/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E560	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E561	크다	크/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E562	길다	길/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E563	짧다	짧/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E564	작렬이다	작렬/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E565	별로다	별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E566	별루다	별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E567	0 점이다	0/sn	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E568	1 등급이다	1/sn 등급/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E569	가격 대비 좋다	가격/nng 대비/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E570	가격대비 괜찮다	가격/nng 대비/nng 괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E571	가격대비 딱이다	가격/nng 대비/nng 딱/mag	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E572	가격대비 만족하다	가격/nng 대비/nng 만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E573	가격대비 양호하다	가격/nng 대비/nng 양호/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E574	가격대비 완벽하다	가격/nng 대비/nng 완벽/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E575	가격대비 우수하다	가격/nng 대비/nng 우수/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E576	가격대비 좋다	가격/nng 대비/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E577	가격대비 짱이다	가격/nng 대비/nng 짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E578	가격대비 최고다	가격/nng 대비/nng 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E579	가격대비 최상이다	가격/nng 대비/nng 최상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E580	가격대비 훌륭하다	가격/nng 대비/nng 훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E581	가격만큼의 가치 아니다	가격/nng 가치/nng 아니/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E582	감소되다	감소/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E583	감소하다	감소/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E584	감탄할만하다	감탄/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E585	갑갑하다	갑갑/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E586	강력하다	강력/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E587	강하다	강하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E588	강화되다	강화/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E589	같잖다	같잖/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E590	개선되다	개선/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E591	개선된 점 보이다	개선/nng 점/nng 보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E592	개판이다	개판/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E593	거지같다	거지/nng 같/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E594	걱정될 정도다	걱정/nng 정도/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E595	걱정스럽다	걱정/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E596	걱정안해도 되다	걱정/nng 안/mag 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E597	걱정없다	걱정/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E598	견고하다	견고/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E599	경이롭다	경이/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E600	경쟁상대 없다	경쟁/nng 상대/nng 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E601	경제적이다	경제/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E602	경쾌하다	경쾌하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E603	고질적 문제있다	고질/nng 문제/nng 있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E604	고출력이다	출력/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E605	고품질이다	품질/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E606	괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E607	괜찮은 거 같다	괜찮/va ./. |/| 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E608	괜찮은 것 같다	괜찮/va ./. |/| 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E609	괜춘하다	괜춘/unk	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E610	구리다	구리/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E611	굳이다	굳이/mag 다/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E612	굿이다	굿/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E613	권유할 만하다	권유/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E614	극대화되다	극대/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E615	기대 이상이다	기대/nng 이상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E616	기대 이하다	기대/nng 이하/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E617	기대만큼 뛰어나다	기대/nng 뛰어나/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E618	기대보다 낫다	기대/nng 낫/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E619	기대보다 못하다	기대/nng 못하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E620	기대보다 좋다	기대/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E621	기대에 못 미치다	기대/nng 못/mag 미치/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E622	기대와 다르다	기대/nng 다르/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E623	기똥차다	기똥차/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E624	기본에 충실하다	기본/nng 충실/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E625	기준 미달이다	기준/nng 미달/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E626	깔끔하다	깔끔/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E627	꼬지다	꼬지/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E628	꽝이다	꽝/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E629	꾸지다	꾸/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E630	꿀리다	꿀리/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E631	끝내주다	끝내주/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E632	나무랄 곳 없다	나무라/vv 곳/nng 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E633	나무랄 데 없다	나무라/vv 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E634	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E635	나쁜 편이다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E636	나아지다	나아지/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E637	낙제수준이다	낙제/nng 수준/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E638	낙제점이다	낙제/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E639	낙후되다	낙후/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E640	낮다	낮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E641	낮아지다	낮아지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E642	놀랍다	놀랍/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E643	높아지다	높아지/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E644	눈에 띄다	눈/nng 띄/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E645	다이나믹하다	다이나믹/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E646	단단하다	단단/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E647	단연 최고다	단연/mag 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E648	답답하다	답답/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E649	대단하다	대단/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E650	대만족이다	만족/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E651	대체적으로 만족하다	대체/nng 만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E652	더없이 좋다	더없이/mag 좋/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E653	독보적이다	독보/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E654	돋보이다	돋보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E655	뒤떨어지다	뒤떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E656	뒤쳐지다	뒤쳐지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E657	따봉이다	따봉/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E658	딱이다	딱/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E659	딸리다	딸리/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E660	떨어지다	떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E661	똑부러지다	똑부러지다/unk	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E662	뛰어나다	뛰어나/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E663	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E664	막강하다	막강/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E665	만점이다	만점/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E666	만족스럽다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E667	만족하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E668	만족할 만하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E669	만족할만하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E670	말썽이다	말썽/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E671	말짱하다	말짱하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E672	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E673	멀쩡하다	멀쩡하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E674	명성에 걸맞다	명성/nng 걸맞/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E675	모자라다	모자라/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E676	모자람 없다	모자라/vv 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E677	모자람이 없다	모자라/vv 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E678	못마땅하다	못마땅/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E679	무난하다	무난/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E680	무리없다	무리/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E681	무시무시한 매력 있다	무시무시하/va 매력/nng 있/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E682	문제 없다	문제/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E683	문제 있다	문제/nng 있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E684	문제되다	문제/nng 되/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E685	뭥미	뭥미/unk	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E686	미약하다	미약/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E687	미흡하다	미흡/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E688	믿을 수 있다	믿/vv 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E689	믿을만 하다	믿/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E690	밑바닥 수준이다	밑/nng 바닥/nng 수준/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E691	바닥이다	바닥/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E692	발전하다	발전/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E693	백점이다	백점/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E694	버겁다	버겁/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E695	별로다	별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E696	별루다	별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E697	별루이다	별루/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E698	보완 시급하다	보완/nng 시급/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E699	보완되다	보완/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E700	보완할 점 많다	보완/nng 많/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E701	보장되다	보장/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E702	보통 이상이다	보통/nng 이상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E703	보통 이하다	보통/nng 이하/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E704	복장 터지다	복장/nng 터지/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E705	볼품없다	볼품없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E706	부실하다	부실/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E707	부족하다	부족/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E708	분통 터지다	분통/nng 터지/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E709	불량이다	불량/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E710	불만이다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E711	불만족스럽다	불만족/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E712	불안정하다	불안정/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E713	불안하다	불안/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E714	불완전하다	불완전/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E715	불합격하다	불합격/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E716	붕괴되다	붕괴/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E717	비루하다	비루/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E718	비싼만큼 좋다	비싸/va 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E719	빈약하다	빈약/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E720	빛나다	빛나/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E721	빠지다	빠지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E722	빵빵하다	빵빵하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E723	빵점이다	빵점/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E724	빼어나다	빼어나/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E725	뽐낼만 하다	뽐내/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E726	사랑받을 만하다	사랑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E727	상당하다	상당/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E728	생각보다 별로다	생각/nng 별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E729	생각보다 별루다	생각/nng 별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E730	성에 차다	성/nng 차/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E731	세계 최고다	세계/nng 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E732	세다	세/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E733	속 터지다	속/nng 터지/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E734	손색없다	손색없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E735	수준 미달이다	수준/nng 미달/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E736	수준급이다	수준/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E737	스트레스 받게 하다	스트레스/nng 받/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E738	시원찮다	시원찮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E739	시원하다	시원/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E740	신경 안쓴게 티나다	신경/nng 안/mag 쓰/vv 티나/nnp 다/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E741	신뢰가다	신뢰/nng 가/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E742	신뢰할 수 있다	신뢰/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E743	신통하지 않다	신통/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E744	실망스럽다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E745	실망이다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E746	실망하다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E747	실용적이다	실용/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E748	심각하다	심각/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E749	싸구려다	싸구려/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E750	쌩쌩하다	쌩쌩하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E751	쓰기 꺼려지다	쓰/vv 꺼리/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E752	쓰레기다	쓰레기/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E753	쓸만하다	쓰/vv 만하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E754	쓸모없다	쓸모없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E755	아쉽다	아쉽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E756	아시아 최고다	아시아/nnp 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E757	아찔하게 좋다	아찔/nng 좋/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E758	안습이다	안습/unk	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E759	안심되다	안심/nng 되/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E760	안정되다	안정/nng 되/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E761	안정적이다	안정/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E762	압도적이다	압도/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E763	앞서는 것 같다	앞서/vv 같/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E764	앞서다	앞서/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E765	야무지다	야무지/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E766	약하다	약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E767	양호하다	양호/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E768	엄청나다	엄청나/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E769	엉망이다	엉망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E770	엉망진창이다	엉망진창/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E771	엉성하다	엉성/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E772	염려되다	염려/nng 되/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E773	영 아니다	영/mag 아니/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E774	오류가 많다	오류/nng 많/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E775	오르다	오르/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E776	올라가다	올라가/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E777	완벽하다	완벽/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E778	완전무결하다	완전/nng 무결/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E779	욕나오다	욕나오다/unk	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E780	우려되다	우려/nng 되/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E781	우세하다	우세/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E782	우수하다	우수/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E783	우월하다	우월/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E784	원활하다	원활/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E785	월등하다	월등/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E786	의구심 들다	의구심/nng 들/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E787	의구심 생기다	의구심/nng 생기/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E788	의문스럽다	의문/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E789	의외로 좋다	의외로/mag 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E790	이름값 하다	이름/nng 값/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E791	이상없다	이상없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E792	이상적이다	이상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E793	이상하다	이상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E794	인상깊다	인상/nng 깊/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E795	인정할 만하다	인정/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E796	일등답다	일등/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E797	자랑할 만하다	자랑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E798	작살이다	작살/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E799	잘 나오다	잘/mag 나오/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E800	저급하다	저급/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E801	적당하다	적당/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E802	적절하다	적절/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E803	적정수준 이상이다	적정/nng 수준/nng 이상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E804	적정수준이다	적정/nng 수준/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E805	제값하다	제값/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E806	좋아지다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E807	좋은 편이다	좋/va ./. |/|	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E808	좋은지 모르겠다	좋/va 모르/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E809	죽이다	죽이/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E810	죽인다	죽이/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E811	준수하다	준수/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E812	준수한 편이다	준수/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E813	중국산 같다	중국/nnp 같/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E814	중국산보다 못하다	중국/nnp 못하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E815	증가하다	증가/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E816	지장없다	지장/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E817	진화하다	진화/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E818	짜증나다	짜증/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E819	짝퉁같다	짝퉁/nng 같/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E820	짱이다	짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E821	짱짱이다	짱짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E822	짱짱하다	짱짱/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E823	쩐다	쩐/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E824	쩔다	쩔/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E825	찌질하다	찌질하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E826	찜찜하다	찜찜하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E827	차별화되다	차별/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E828	착하다	착하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E829	처지다	처지/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E830	최강이다	최강/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E831	최고 수준이다	최고/nng 수준/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E832	최고다	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E833	최고로 손꼽히다	최고/nng 손꼽히/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E834	최고이다	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E835	최상급이다	최상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E836	최상이다	최상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E837	최악이다	최악/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E838	최적이다	최적/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E839	최적화되다	최적/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E840	최하위다	하위/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E841	추천할 만하다	추천/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E842	충격 흡수 좋다	충격/nng 흡수/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E843	충격 흡수되다	충격/nng 흡수/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E844	충분하다	충분/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E845	취약하다	취약/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E846	치솟다	치솟/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E847	캐안습하다	캐안습/unk	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E848	타의 추종 불허하다	타/nng 추종/nng 불허/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E849	타제품 추월하다	제품/nng 추월/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E850	타제품에 비해 위력적이다	제품/nng 비하/vv 위력/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E851	탁월하다	탁월/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E852	탄탄하다	탄탄하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E853	튼실하다	튼실하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E854	튼튼하다	튼튼/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E855	퍼펙트하다	퍼펙트/nng 하/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E856	평균 뛰어넘다	평균/nng 뛰어넘/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E857	평균 밑돌다	평균/nng 밑돌/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E858	프로급이다	프로/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E859	한국 최고다	한국/nnp 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E860	한심하다	한심/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E861	합리적이다	합리/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E862	향상 시급하다	향상/nng 시급/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E863	향상되다	향상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E864	허점 있다	허점/nng 있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E865	혁신적이다	혁신/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E866	형편없다	형편없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E867	화나다	화나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E868	확실하다	확실/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E869	환상적이다	환상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E870	황당하다	황당하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E871	획기적이다	획기/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E872	후지다	후지/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E873	훌륭하다	훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E874	흠있다	흠/mag 있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E875	흠잡을 곳 없다	흠잡/vv 곳/nng 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E876	흠잡을 데 없다	흠잡/vv 없/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E877	GOOD	GOOD/eng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E878	가격대비 최고다	가격/nng 대비/nng 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E879	간지나다	간/nng 지나/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E880	감탄할 만하다	감탄/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E881	강력추천	강력/nng 추천/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E882	개판이다	개판/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E883	경이롭다	경이/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E884	고급스럽다	고급/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E885	괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E886	괴이하다	괴이/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E887	구리다	구리/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E888	굳이다	굳이/mag 다/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E889	굿이다	굿/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E890	귀엽다	귀엽/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E891	기대 이상이다	기대/nng 이상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E892	기대 이하다	기대/nng 이하/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E893	기대보다 낫다	기대/nng 낫/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E894	기대보다 못하다	기대/nng 못하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E895	기대보다 좋다	기대/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E896	깜찍하다	깜찍하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E897	꼴불견이다	꼴불견/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E898	꽝이다	꽝/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E899	끔찍하다	끔찍/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E900	나름 괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E901	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E902	난장판이다	난장판/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E903	날씬해 보이다	날씬/nng 보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E904	낡다	낡/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E905	내 타입이다	나/np 타입/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E906	내추럴하다	내추럴/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E907	노티나서 나쁘다	노티/nng 나/vv 나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E908	노티나서 불만이다	노티/nng 나/vv 불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E909	노티나서 실망하다	노티/nng 나/vv 실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E910	노티나서 싫다	노티/nng 나/vv 싫/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E911	노티나서 아쉽다	노티/nng 나/vv 아쉽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E912	노티나서 짜증나다	노티/nng 나/vv 짜증/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E913	노티나서 최악이다	노티/nng 나/vv 최악/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E914	다리 길어보이다	다리/nng 길/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E915	대만족하다	만족/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E916	돋보이다	돋보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E917	뒤떨어지다	뒤떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E918	뒤죽박죽이다	뒤죽박죽/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E919	딱이다	딱/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E920	뚱뚱해 보이다	뚱뚱/nng 보이/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E921	뛰어나다	뛰어나/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E922	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E923	만족스럽다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E924	만족하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E925	만족할 만하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E926	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E927	망측스럽다	망측/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E928	망측하다	망측/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E929	멋드러지다	멋들/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E930	멋들어지다	멋들어지/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E931	멋지다	멋지/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E932	명성값 하다	명성/nng 값/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E933	못마땅하다	못마땅/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E934	무난하다	무난/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E935	밋밋하다	밋밋하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E936	반짝반짝하다	반짝/mag 반짝하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E937	발랄하다	발랄하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E938	변화무쌍하다	변화/nng 무쌍/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E939	별로다	별로/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E940	별루다	별루/mag	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E941	보기 좋다	보/vv 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E942	보잘것없다	보잘것/nng 없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E943	볼품없다	볼품없/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E944	부담스럽다	부담/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E945	부조화스럽다	부조화/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E946	부해 보이다	부하/va 보이/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E947	불만스럽다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E948	불만이다	불만/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E949	불만족스럽다	불만족/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E950	비싸 보이다	비싸/va 보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E951	뻔하다	뻔하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E952	사랑스럽다	사랑/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E953	산뜻하다	산뜻/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E954	생기발랄하다	생기/nng 발랄/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E955	생동감있다	생동/nng 감/nng 있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E956	생동적이다	생동/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E957	세련되다	세련/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E958	스마트하다	스마트/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E959	스포티하다	스포티/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E960	식상하다	식상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E961	신선하다	신선/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E962	신선함이 떨어지다	신선/nng 떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E963	실망스럽다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E964	실망하다	실망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E965	심심하다	심심/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E966	심하게 파지다	심하/va 파/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E967	싼티나다	싼티나/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E968	아기자기하다	아기자기/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E969	앙증맞다	앙증맞/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E970	얌전해 보이다	얌전하/va 보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E971	어색하다	어색/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E972	어수룩하다	어수룩/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E973	어정쩡하다	어정쩡/mag 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E974	어중간하다	어중간/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E975	엉망이다	엉망/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E976	엉망진창이다	엉망진창/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E977	엉성하다	엉성/nng 하/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E978	역동적이다	역동/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E979	예뻐보여서 괜찮다	예쁘/va 괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E980	예뻐보여서 딱이다	예쁘/va 딱/mag	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E981	예뻐보여서 만족하다	예쁘/va 만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E982	예뻐보여서 좋다	예쁘/va 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E983	예뻐보여서 최고다	예쁘/va 최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E984	예뻐보여서 훌륭하다	예쁘/va 훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E985	예뻐보이다	예쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E986	예쁘다	예쁘/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E987	예상외로 좋다	예상/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E988	예술이다	예술/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E989	완벽하다	완벽/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E990	왕 추천하다	왕/nng 추천/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E991	의외로 좋다	의외로/mag 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E992	이름값 하다	이름/nng 값/nng 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E993	이상적이다	이상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E994	이상하다	이상/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E995	적절하다	적절/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E996	젊고 트렌디하다	젊/va 트렌디/nnp 하/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E997	조신해 보이다	조신/nng 보이/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E998	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E999	죽이다	죽이/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1000	진부하다	진부/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1001	짜증나다	짜증/nng 나/vv	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1002	짱이다	짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1003	짱짱이다	짱짱/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1004	찌질하다	찌질하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1005	차가와 보이다	차/nng 보이/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1006	촌스럽다	촌스럽/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1007	최고	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1008	최고다	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1009	최고로 손꼽히다	최고/nng 손꼽히/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1010	최상이다	최상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1011	최악이다	최악/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1012	추하다	추하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1013	케케묵다	케케묵/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1014	큐트하다	큐트하다/unk	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1015	퍼펙트하다	퍼펙트/nng 하/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1016	펑퍼짐하다	펑퍼짐하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1017	풋풋하다	풋풋/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1018	한심스럽다	한심/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1019	한심하다	한심/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1020	허름하다	허름하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1021	허술하다	허술/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1022	형편없다	형편없/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1023	화보같다	화보/nng 같/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1024	화사하다	화사하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1025	환상적이다	환상/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1026	훌륭하다	훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1027	문제없다	문제/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1028	이상없다	이상없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1029	검증되다	검증/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1030	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1031	낮다	낮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1032	논란 있다	논란/nng 있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1033	높다	높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1034	도마위에 오르다	도마/nng 오르/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1035	든든하다	든든/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1036	문제 제기되다	문제/nng 제기/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1037	우수하다	우수/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1038	입증되다	입증/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1039	있다	있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1040	적다	적/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1041	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1042	최악이다	최악/nng	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1043	크다	크/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1044	평가 좋다	평가/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1045	빠르다	빠르/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1046	높다	높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1047	떨어지다	떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1048	있다	있/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1049	많다	많/va	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1050	많다	많/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1051	있다	있/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1052	적다	적/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1053	나오다	나오/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1054	거슬리다	거슬리/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1055	덜하다	덜하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1056	심하다	심하/va	-2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1057	크다	크/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1058	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1059	높다	높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1060	뒤지다	뒤지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1061	떨어지다	떨어지/vv	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1062	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1063	만점 주고싶다	만점/nng 주/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1064	만족스럽다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1065	문제없다	문제/nng 없/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1066	믿을 만하다	믿/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1067	믿음 가다	믿음/nng 가/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1068	보증되다	보증/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1069	상승하다	상승/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1070	쓸만하다	쓰/vv 만하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1071	예상외로 좋다	예상/nng 좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1072	인증받다	인증/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1073	하락하다	하락/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1074	확실하다	확실/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1075	후지다	후지/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1076	괜찮다	괜찮/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1077	기대 이상이다	기대/nng 이상/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1078	뛰어나다	뛰어나/vv	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1079	마음에 들다	마음/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1080	만족하다	만족/nng	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1081	맘에 들다	맘/nng 들/vv	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1082	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1083	최고다	최고/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1084	훌륭하다	훌륭/nng	2
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1085	강하다	강하/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1086	나쁘다	나쁘/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1087	낮다	낮/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1088	높다	높/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1089	덜하다	덜하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1090	미약하다	미약/nng	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1091	세다	세/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1092	약하다	약하/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1093	적다	적/va	-1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1094	좋다	좋/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1095	크다	크/va	1
+[2016-08-25 10:24:26][ERROR](SentimentDict.java:273) - wrong entry: E1096	강하다	강하/va	1
+[2016-08-25 10:24:26][INFO ](SentimentDict.java:89) - expression dictionary loading done
+[2016-08-25 10:24:26][INFO ](SentimentDict.java:92) - mapping dictionary loading ....
+[2016-08-25 10:38:49][INFO ](NLPUtils.java:37) - NLP initializing ....
+[2016-08-25 10:38:50][INFO ](NLPUtils.java:39) - NLP initializing done
